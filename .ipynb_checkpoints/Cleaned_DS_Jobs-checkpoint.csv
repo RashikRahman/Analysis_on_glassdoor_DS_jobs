@@ -1,0 +1,673 @@
+Job Title,Rating,Company Name,Location,Headquarters,Sector,min_salary,max_salary,avg_salary,job_state,same_state,company_age,python,excel,hadoop,spark,aws,tableau,big_data
+Sr Data Scientist,3.1,Healthfirst,"New York, NY","New York, NY",Insurance,137,171,154, NY,1,27,0,0,0,0,1,0,0
+Data Scientist,4.2,ManTech,"Chantilly, VA","Herndon, VA",Business Services,137,171,154, VA,0,52,0,0,1,0,0,0,1
+Data Scientist,3.8,Analysis Group,"Boston, MA","Boston, MA",Business Services,137,171,154, MA,1,39,1,1,0,0,1,0,0
+Data Scientist,3.5,INFICON,"Newton, MA","Bad Ragaz, Switzerland",Manufacturing,137,171,154, MA,0,20,1,1,0,0,1,0,0
+Data Scientist,2.9,Affinity Solutions,"New York, NY","New York, NY",Business Services,137,171,154, NY,1,22,1,1,0,0,0,0,0
+Data Scientist,4.2,HG Insights,"Santa Barbara, CA","Santa Barbara, CA",Information Technology,137,171,154, CA,1,10,1,1,1,1,0,0,0
+Data Scientist / Machine Learning Expert,3.9,Novartis,"Cambridge, MA","Basel, Switzerland",Biotech & Pharmaceuticals,137,171,154, MA,0,24,1,0,0,0,0,0,0
+Data Scientist,3.5,iRobot,"Bedford, MA","Bedford, MA",Retail,137,171,154, MA,1,30,1,0,0,0,0,0,0
+Staff Data Scientist - Analytics,4.4,Intuit - Data,"San Diego, CA","Mountain View, CA",Information Technology,137,171,154, CA,0,37,0,0,0,0,0,0,0
+Data Scientist,3.6,XSELL Technologies,"Chicago, IL","Chicago, IL",Information Technology,137,171,154, IL,1,6,1,0,0,0,0,0,0
+Data Scientist,4.5,Novetta,"Herndon, VA","Mc Lean, VA",Information Technology,137,171,154, VA,0,8,1,1,0,0,1,0,0
+Data Scientist,4.7,1904labs,"Saint Louis, MO","Saint Louis, MO",Information Technology,137,171,154, MO,1,4,1,0,0,1,0,0,0
+"Data Scientist - Statistics, Early Career",3.7,PNNL,"Richland, WA","Richland, WA","Oil, Gas, Energy & Utilities",137,171,154, WA,1,55,0,1,0,0,0,0,0
+Data Modeler,3.1,Old World Industries,"Northbrook, IL","Northbrook, IL",Manufacturing,137,171,154, IL,1,47,1,1,0,0,0,1,0
+Data Scientist,3.4,Mathematica Policy Research,"Washington, DC","Princeton, NJ",Business Services,137,171,154, DC,0,34,1,1,0,0,1,0,0
+Experienced Data Scientist,4.4,Guzman & Griffin Technologies (GGTI),"Washington, DC","Mays Landing, NJ",Government,137,171,154, DC,0,23,1,1,1,1,0,1,0
+Data Scientist - Contract,4.1,Upside Business Travel,Remote,"Washington, DC",Information Technology,137,171,154,Remote,0,5,1,0,0,0,0,0,0
+Data Scientist,3.5,Buckman,"Memphis, TN","Memphis, TN",Manufacturing,137,171,154, TN,1,75,1,0,1,0,0,0,0
+Data Analyst II,4.2,"Insight Enterprises, Inc.","Plano, TX","Tempe, AZ",Information Technology,137,171,154, TX,0,32,0,1,0,0,0,0,0
+Medical Lab Scientist,3.5,Tower Health,"West Grove, PA","Reading, PA",Health Care,137,171,154, PA,0,3,0,0,0,0,0,0,0
+Data Scientist,3.2,Triplebyte,"New York, NY","San Francisco, CA",Information Technology,137,171,154, NY,0,5,0,0,0,0,0,0,0
+Data Scientist/Machine Learning,4.3,PulsePoint,"New York, NY","New York, NY",Information Technology,137,171,154, NY,1,9,1,0,1,1,0,0,1
+Human Factors Scientist,3.5,Exponent,"Phoenix, AZ","Menlo Park, CA",Business Services,137,171,154, AZ,0,53,0,1,0,0,0,0,0
+Business Intelligence Analyst I- Data Insights,3.5,Guardian Life,"Appleton, WI","New York, NY",Insurance,137,171,154, WI,0,160,0,0,0,0,0,0,0
+Data Scientist,3.4,Spectrum Communications and Consulting,"Chicago, IL","Chicago, IL",Business Services,137,171,154, IL,1,28,0,0,0,0,0,0,0
+Data Scientist,4.7,Oversight Systems,"Atlanta, GA","Atlanta, GA",Information Technology,137,171,154, GA,1,17,1,1,0,0,0,0,0
+Data Scientist - Risk,4.2,LSQ,"Orlando, FL","Orlando, FL",Finance,137,171,154, FL,1,24,1,1,1,1,1,1,1
+Data Scientist-Human Resources,3.8,MIT Lincoln Laboratory,"Lexington, MA","Lexington, MA",Aerospace & Defense,137,171,154, MA,1,69,1,0,1,1,0,0,1
+Data Scientist,4.5,Kingfisher Systems,"McLean, VA","Falls Church, VA",Government,137,171,154, VA,0,15,1,0,0,0,0,1,0
+Data Scientist,2.8,Formation,"San Francisco, CA","San Francisco, CA",Information Technology,137,171,154, CA,1,5,0,1,0,1,0,0,1
+Data Scientist,3.8,Analysis Group,"Boston, MA","Boston, MA",Business Services,75,131,103, MA,1,39,1,1,0,0,1,0,0
+Data Scientist / Machine Learning Expert,3.9,Novartis,"Cambridge, MA","Basel, Switzerland",Biotech & Pharmaceuticals,75,131,103, MA,0,24,1,0,0,0,0,0,0
+Data Scientist,5.0,Cohere Health,"Boston, MA","Boston, MA",Information Technology,75,131,103, MA,1,1,1,1,0,0,0,0,0
+Senior Research Statistician- Data Scientist,4.8,Acuity Insurance,"Sheboygan, WI","Sheboygan, WI",Insurance,75,131,103, WI,1,95,0,0,0,0,0,0,0
+Data Engineer,3.6,Chef,United States,"Seattle, WA",Information Technology,75,131,103,United States,0,12,0,1,0,0,1,0,1
+Associate Data Scientist,3.3,Puget Sound Energy,"Bothell, WA","Bellevue, WA","Oil, Gas, Energy & Utilities",75,131,103, WA,0,21,0,1,1,1,0,0,0
+Business Intelligence Analyst,2.7,Sandhills Global,"Lincoln, NE","Lincoln, NE",Information Technology,75,131,103, NE,1,42,1,1,0,0,0,1,0
+Data Scientist,2.7,A Place for Mom,"Overland Park, KS","New York, NY",Health Care,75,131,103, KS,0,20,1,1,0,0,1,0,0
+Data Scientist,2.2,Great-Circle Technologies,"Chantilly, VA","Chantilly, VA",Information Technology,75,131,103, VA,1,20,1,1,1,1,1,0,0
+Senior Analyst/Data Scientist,3.4,Edmunds.com,"Santa Monica, CA","Santa Monica, CA",Information Technology,75,131,103, CA,1,54,1,1,0,0,1,1,0
+Data Analyst,3.1,"Cambridge Associates, LLC","Boston, MA","Boston, MA",Finance,75,131,103, MA,1,47,1,1,0,0,0,0,0
+Machine Learning Engineer,3.4,Liberty Mutual Insurance,"Portsmouth, NH","Boston, MA",Insurance,75,131,103, NH,0,108,1,1,0,1,1,0,1
+Data Analyst I,2.6,Cenlar,"Ewing, NJ","Ewing, NJ",-1,75,131,103, NJ,1,62,0,0,0,0,0,0,0
+Scientist - Molecular Biology,5.0,Arsenal Biosciences,"South San Francisco, CA","South San Francisco, CA",Biotech & Pharmaceuticals,75,131,103, CA,1,1,0,0,0,0,0,0,0
+Data Scientist,4.2,Eversight,"Palo Alto, CA","Palo Alto, CA",Information Technology,75,131,103, CA,1,7,1,0,0,0,0,0,0
+"Computational Scientist, Machine Learning",4.1,Pfizer,"Cambridge, MA","New York, NY",Biotech & Pharmaceuticals,75,131,103, MA,0,171,1,1,0,0,1,0,0
+Senior Data Scientist,4.8,Klaviyo,"Boston, MA","Boston, MA",Information Technology,75,131,103, MA,1,8,0,0,0,0,0,0,0
+Data Scientist,3.3,Intellectual Ventures,"Bellevue, WA","Bellevue, WA",Finance,75,131,103, WA,1,20,1,1,0,0,0,0,0
+Data Scientist,3.7,GovTech,"San Francisco, CA","Singapore, Singapore",Government,75,131,103, CA,0,4,1,1,0,0,0,1,0
+Data Scientist,4.3,Quick Base,"Cambridge, MA","Cambridge, MA",Information Technology,75,131,103, MA,1,21,1,1,0,0,0,1,0
+Data Analyst,4.8,Giving Assistant,"San Francisco, CA","San Francisco, CA",Business Services,75,131,103, CA,1,6,1,1,0,0,0,1,0
+Data Scientist,3.7,Takeda,"Cambridge, MA","OSAKA, Japan",Biotech & Pharmaceuticals,75,131,103, MA,0,239,1,0,0,1,0,0,0
+Data Scientist,4.0,Netskope,"San Francisco, CA","Santa Clara, CA",Information Technology,75,131,103, CA,0,8,1,1,0,1,0,0,1
+Jr. Data Engineer,4.8,IT Concepts,Remote,"Vienna, VA",Information Technology,75,131,103,Remote,0,17,0,1,0,0,0,0,0
+E-Commerce Data Analyst,3.5,iSeatz,"New Orleans, LA","New Orleans, LA",Information Technology,75,131,103, LA,1,21,0,1,0,0,0,0,0
+Data Analytics Engineer,3.7,Summa Health System,"Akron, OH","Akron, OH",Health Care,75,131,103, OH,1,94,0,1,0,0,1,1,0
+Senior Data Scientist,3.5,Benson Hill,"Saint Louis, MO","Saint Louis, MO",Biotech & Pharmaceuticals,75,131,103, MO,1,8,1,1,0,0,0,0,1
+Product Data Scientist - Ads Data Science,4.1,Twitter,"San Francisco, CA","San Francisco, CA",Information Technology,75,131,103, CA,1,14,1,0,0,0,0,0,0
+Data Scientist,3.2,Postmates - Corporate HQ,"San Francisco, CA","San Francisco, CA",Transportation & Logistics,75,131,103, CA,1,9,1,0,0,1,0,0,0
+Data Scientist - Intermediate,4.5,Envision LLC,"Saint Louis, MO","Saint Louis, MO",Business Services,75,131,103, MO,1,26,1,1,0,0,0,0,0
+Data Analyst,3.8,Swiss Re,"Fort Wayne, IN","Zurich, Switzerland",Insurance,75,131,103, IN,0,157,1,1,0,0,0,0,0
+Machine Learning Engineer,4.5,Systems & Technology Research,"Woburn, MA","Woburn, MA",Aerospace & Defense,75,131,103, MA,1,10,1,1,0,0,0,0,0
+Data Scientist,3.5,iRobot,"Bedford, MA","Bedford, MA",Retail,79,131,105, MA,1,30,1,0,0,0,0,0,0
+Data Scientist,4.2,HG Insights,"Santa Barbara, CA","Santa Barbara, CA",Information Technology,79,131,105, CA,1,10,1,1,1,1,0,0,0
+Global Data Analyst,3.8,Dermalogica,"Carson, CA","Carson, CA",Manufacturing,79,131,105, CA,1,34,0,1,0,0,0,1,0
+Data Engineer,3.7,Bayview Asset Management,"Coral Gables, FL","Coral Gables, FL",Finance,79,131,105, FL,1,25,1,0,0,0,0,0,0
+Data Scientist,3.7,Via Transportation,"New York, NY","New York, NY",Information Technology,79,131,105, NY,1,8,1,0,0,0,0,1,0
+Data Scientist,4.0,Grid Dynamics,"Santa Clara, CA","San Ramon, CA",Information Technology,79,131,105, CA,0,14,1,1,0,0,0,1,1
+Data & Machine Learning Scientist,3.3,Tempus Labs,"Chicago, IL","Chicago, IL",Biotech & Pharmaceuticals,79,131,105, IL,1,5,1,0,0,0,1,0,0
+Data Scientist - Machine Learning,2.5,CareDx,"Brisbane, CA","Brisbane, CA",Biotech & Pharmaceuticals,79,131,105, CA,1,-1,1,1,0,1,0,0,0
+Data Engineer (Remote),4.2,IZEA,"Winter Park, FL","Winter Park, FL",Business Services,79,131,105, FL,1,14,1,1,1,1,1,0,0
+"Data Scientist, Applied Machine Learning - Bay Area",3.3,Tempus Labs,"Redwood City, CA","Chicago, IL",Biotech & Pharmaceuticals,79,131,105, CA,0,5,1,0,0,0,1,0,0
+Principal Data Scientist,4.0,Autodesk,"San Francisco, CA","San Rafael, CA",Information Technology,79,131,105, CA,0,38,1,1,1,1,1,0,1
+Business Data Analyst,3.7,Caterpillar,"Peoria, IL","Deerfield, IL",Manufacturing,79,131,105, IL,0,95,0,1,0,0,0,1,0
+Purification Scientist,4.9,New England Biolabs,"Ipswich, MA","Ipswich, MA",Biotech & Pharmaceuticals,79,131,105, MA,1,46,0,0,0,0,0,0,0
+Data Analyst,3.4,Allied Solutions,"Carmel, IN","Carmel, IN",Insurance,79,131,105, IN,1,19,1,1,0,0,0,1,0
+"Data Engineer, Enterprise Analytics",3.1,Healthfirst,"New York, NY","New York, NY",Insurance,79,131,105, NY,1,27,1,1,0,0,0,0,1
+Data Scientist,3.5,The Knot Worldwide,"Washington, DC","Chevy Chase, MD",Information Technology,79,131,105, DC,0,1,1,0,0,1,1,0,0
+Data Scientist,2.9,IFG Companies,"New York, NY","Hartford, CT",Insurance,79,131,105, NY,0,35,1,0,0,0,0,0,0
+Data Scientist 3 (718),3.3,Amyris,"Emeryville, CA","Emeryville, CA",Biotech & Pharmaceuticals,79,131,105, CA,1,17,1,0,0,0,1,0,0
+"Real World Science, Data Scientist",4.0,AstraZeneca,"Gaithersburg, MD","Cambridge, United Kingdom",Biotech & Pharmaceuticals,79,131,105, MD,0,107,1,0,1,0,0,0,0
+Data Scientist,3.6,Powertek,"Washington, DC","Rockville, MD",Information Technology,79,131,105, DC,0,19,0,0,0,0,0,0,0
+Data Engineer,4.7,Object Partners,"Saint Louis, MO","Minneapolis, MN",Business Services,79,131,105, MO,0,24,0,0,1,1,1,0,1
+Data Scientist - Image and Video Analytics,4.9,The Mom Project,"Longmont, CO","Chicago, IL",Business Services,79,131,105, CO,0,4,1,0,1,1,1,0,0
+Data Scientist,4.3,Lightspeed Systems,"Austin, TX","Austin, TX",Information Technology,79,131,105, TX,1,21,1,0,0,1,1,0,0
+"Data Science Manager, Payment Acceptance - USA",4.0,Stripe,"San Francisco, CA","San Francisco, CA",Information Technology,79,131,105, CA,1,10,1,0,0,0,0,0,0
+Data Analyst,2.6,Comprehensive Healthcare,"Yakima, WA","Yakima, WA",Health Care,79,131,105, WA,1,49,0,0,0,0,0,0,0
+Data Scientist / Applied Mathematician,4.5,"Fullpower Technologies, Inc.","Santa Cruz, CA","Santa Cruz, CA",Information Technology,79,131,105, CA,1,17,1,0,0,0,1,0,1
+Machine Learning Engineer,4.8,Klaviyo,"Boston, MA","Boston, MA",Information Technology,79,131,105, MA,1,8,1,0,0,0,0,0,0
+Data Scientist,3.9,Mars,United States,"Mc Lean, VA",Manufacturing,79,131,105,United States,0,109,1,0,0,1,1,0,0
+Patient Safety- Associate Data Scientist,4.0,AstraZeneca,"Gaithersburg, MD","Cambridge, United Kingdom",Biotech & Pharmaceuticals,79,131,105, MD,0,107,1,1,0,0,0,0,0
+Machine Learning Engineer,4.4,NuWave Solutions,"Springfield, VA","Mc Lean, VA",Information Technology,79,131,105, VA,0,21,1,0,1,1,1,0,0
+Senior Data Scientist,4.2,ManTech,"Alexandria, VA","Herndon, VA",Business Services,79,131,105, VA,0,52,1,0,1,1,0,1,1
+(Sr.) Data Scientist -,3.6,Merrick Bank,Utah,"South Jordan, UT",Finance,79,131,105,Utah,0,23,1,1,0,0,1,0,0
+Data Scientist,3.4,Mathematica Policy Research,"Washington, DC","Princeton, NJ",Business Services,99,132,115, DC,0,34,1,1,0,0,1,0,0
+Staff Data Scientist - Analytics,4.4,Intuit - Data,"San Diego, CA","Mountain View, CA",Information Technology,99,132,115, CA,0,37,0,0,0,0,0,0,0
+Data Analytics Engineer,3.5,QOMPLX,"Reston, VA","Reston, VA",Information Technology,99,132,115, VA,1,5,1,0,0,1,0,0,0
+"Data Scientist, Kinship - NYC/Portland",3.9,Mars,"New York, NY","Mc Lean, VA",Manufacturing,99,132,115, NY,0,109,1,0,0,1,0,0,0
+Senior Data Scientist,3.8,GutCheck,"Denver, CO","Denver, CO",Business Services,99,132,115, CO,1,11,0,0,0,0,0,0,0
+Applied Technology Researcher / Data Scientist,3.5,Inter-American Development Bank,"Washington, DC","Washington, DC",Finance,99,132,115, DC,1,61,0,1,0,0,0,1,0
+Data Scientist,4.9,Avlino,New Jersey,"Holmdel, NJ",Information Technology,99,132,115,New Jersey,0,7,1,0,1,1,0,0,1
+Machine Learning Engineer,4.4,Stratagem Group,"Aurora, CO","Aurora, CO",Aerospace & Defense,99,132,115, CO,1,13,1,1,1,1,1,0,0
+Health Data Scientist - Biomedical/Biostats,4.1,Evidation,"Santa Barbara, CA","San Mateo, CA",Information Technology,99,132,115, CA,0,8,1,0,0,0,0,0,0
+Senior Data Scientist,4.0,Autodesk,"San Francisco, CA","San Rafael, CA",Information Technology,99,132,115, CA,0,38,1,0,1,1,0,0,1
+Staff Data Scientist,4.4,Intuit - Data,"San Diego, CA","Mountain View, CA",Information Technology,99,132,115, CA,0,37,0,0,0,0,0,0,0
+Data Scientist,3.8,Tecolote Research,"Hill AFB, UT","Goleta, CA",Aerospace & Defense,99,132,115, UT,0,47,1,1,0,0,0,1,0
+Sr Data Engineer (Sr BI Developer),3.2,Tivity Health,"Chandler, AZ","Franklin, TN",Health Care,99,132,115, AZ,0,39,0,0,1,0,0,0,1
+Data Engineer,2.9,hc1,"Indianapolis, IN","Indianapolis, IN",Biotech & Pharmaceuticals,99,132,115, IN,1,9,1,0,0,0,1,0,0
+Lead Data Scientist,4.1,HP Inc.,"San Diego, CA","Palo Alto, CA",Information Technology,99,132,115, CA,0,81,1,1,1,0,1,0,1
+Data Scientist,3.7,SAIC,"Chantilly, VA","Reston, VA",Information Technology,99,132,115, VA,0,7,1,0,0,0,0,0,0
+RFP Data Analyst,3.2,AllianceBernstein,"Nashville, TN","New York, NY",Finance,99,132,115, TN,0,53,0,1,0,1,0,0,0
+Data Analyst,4.9,Big Huge Games,"Timonium, MD","Lutherville Timonium, MD",Media,99,132,115, MD,0,7,0,1,0,0,0,1,0
+Data Scientist (TS/SCI),3.5,Maxar Technologies,"Herndon, VA","Westminster, CO",Aerospace & Defense,99,132,115, VA,0,-1,1,0,0,0,0,0,1
+Data Engineer,5.0,Phantom AI,"Burlingame, CA","Burlingame, CA",Information Technology,99,132,115, CA,1,4,1,0,0,0,0,0,0
+Data Scientist,4.0,Noblis,"Reston, VA","Reston, VA",Business Services,99,132,115, VA,1,24,1,0,1,1,1,1,0
+Data Scientist,3.6,Spring Health,"New York, NY","New York, NY",Health Care,99,132,115, NY,1,4,1,1,0,0,0,0,0
+Software Engineer - Data Science,4.0,ClearEdge,"Annapolis Junction, MD","Annapolis Junction, MD",Information Technology,99,132,115, MD,1,18,1,1,1,1,0,0,1
+Data Analyst/Engineer,3.2,AllianceBernstein,"Nashville, TN","New York, NY",Finance,99,132,115, TN,0,53,1,1,0,0,0,0,0
+NGS Scientist,5.0,Arsenal Biosciences,"South San Francisco, CA","South San Francisco, CA",Biotech & Pharmaceuticals,99,132,115, CA,1,1,0,1,0,0,0,0,0
+Data Engineer,4.8,GetWellNetwork,"Bethesda, MD","Bethesda, MD",Health Care,99,132,115, MD,1,20,1,0,0,0,0,0,0
+Data Scientist,4.5,TACG Solutions,"Dayton, OH","Beavercreek, OH",Business Services,99,132,115, OH,0,14,1,1,0,0,0,1,0
+Senior Data Engineer,4.7,Scoop,"San Francisco, CA","San Francisco, CA",Information Technology,99,132,115, CA,1,5,1,0,0,1,0,0,0
+Senior Data Scientist,4.5,Novetta,"Herndon, VA","Mc Lean, VA",Information Technology,99,132,115, VA,0,8,1,1,0,0,1,0,0
+Data Engineer,4.2,IZEA,"Winter Park, FL","Winter Park, FL",Business Services,99,132,115, FL,1,14,1,1,1,1,1,0,0
+Business Intelligence Analyst,3.4,Montway Inc,"Schaumburg, IL","Schaumburg, IL",Transportation & Logistics,99,132,115, IL,1,14,1,1,0,0,0,1,0
+Sr. ML/Data Scientist - AI/NLP/Chatbot,3.8,Juniper Networks,"Cupertino, CA","Sunnyvale, CA",Telecommunications,99,132,115, CA,0,24,1,1,0,1,1,0,0
+Data Scientist,4.7,1904labs,"Saint Louis, MO","Saint Louis, MO",Information Technology,90,109,99, MO,1,4,1,0,0,1,0,0,0
+Data Scientist,3.6,XSELL Technologies,"Chicago, IL","Chicago, IL",Information Technology,90,109,99, IL,1,6,1,0,0,0,0,0,0
+Data Engineer,4.2,IZEA,"Winter Park, FL","Winter Park, FL",Business Services,90,109,99, FL,1,14,1,1,1,1,1,0,0
+Sr. ML/Data Scientist - AI/NLP/Chatbot,3.8,Juniper Networks,"Cupertino, CA","Sunnyvale, CA",Telecommunications,90,109,99, CA,0,24,1,1,0,1,1,0,0
+Data Scientist,5.0,Notion Labs,"San Francisco, CA","San Francisco, CA",Information Technology,90,109,99, CA,1,4,0,0,0,0,0,0,0
+Senior Data Engineer,4.9,Lendio,"Lehi, UT","Lehi, UT",Finance,90,109,99, UT,1,9,1,0,1,1,1,0,1
+Data Engineer,4.4,Direct Agents,"Culver City, CA","New York, NY",Business Services,90,109,99, CA,0,17,1,1,0,0,0,0,0
+Data Scientist,3.3,NAVEX Global,"Lake Oswego, OR","Lake Oswego, OR",Information Technology,90,109,99, OR,1,8,1,0,0,1,0,1,0
+Machine Learning Engineer,3.2,Triplebyte,Remote,"San Francisco, CA",Information Technology,90,109,99,Remote,0,5,0,0,0,0,0,0,0
+Machine Learning Engineer,3.2,Triplebyte,Remote,"San Francisco, CA",Information Technology,90,109,99,Remote,0,5,0,0,0,0,0,0,0
+Senior Data Engineer,4.9,Lendio,"Lehi, UT","Lehi, UT",Finance,90,109,99, UT,1,9,1,0,1,1,1,0,1
+Data Scientist,4.2,Upstart,"San Mateo, CA","San Mateo, CA",Finance,90,109,99, CA,1,8,1,0,0,0,0,0,0
+Data Analyst,4.5,Envision LLC,"San Francisco, CA","Saint Louis, MO",Business Services,90,109,99, CA,0,26,1,0,1,1,0,1,1
+Data Engineer,4.8,AppLovin,"Palo Alto, CA","Palo Alto, CA",Media,90,109,99, CA,1,8,0,1,1,1,0,0,1
+Data Integration and Modeling Engineer,3.8,ISO New England,"Holyoke, MA","Holyoke, MA","Oil, Gas, Energy & Utilities",90,109,99, MA,1,23,0,1,0,0,0,0,0
+Tableau Data Engineer 20-0117,3.7,Relativity,"Chicago, IL","Chicago, IL",Information Technology,90,109,99, IL,1,19,0,1,0,1,0,1,0
+Senior Data Scientist,3.3,Tempo Automation,"San Francisco, CA","San Francisco, CA",Manufacturing,90,109,99, CA,1,7,1,0,1,1,1,1,1
+AI Data Scientist,3.3,MITRE,"McLean, VA","Bedford, MA",Government,90,109,99, VA,0,62,1,0,0,0,0,0,0
+Machine Learning Engineer,5.0,"Expedition Technology, Inc.","Herndon, VA","Dulles, VA",Aerospace & Defense,90,109,99, VA,0,7,1,1,0,0,0,0,0
+Research Scientist Patient Preferences (Remote),3.8,Evidera,"Bethesda, MD","Bethesda, MD",Biotech & Pharmaceuticals,90,109,99, MD,1,7,0,1,0,0,0,0,0
+Data Scientist,3.4,Plymouth Rock Assurance,"Woodbridge, NJ","Boston, MA",Insurance,90,109,99, NJ,0,38,0,1,0,0,0,0,0
+Scientist - Biomarker and Flow Cytometry,2.4,Crown Bioscience,"San Diego, CA","San Diego, CA",Biotech & Pharmaceuticals,90,109,99, CA,1,14,0,0,0,0,0,0,0
+Data Scientist,2.9,GNS Healthcare,"Cambridge, MA","Cambridge, MA",Biotech & Pharmaceuticals,90,109,99, MA,1,20,0,0,0,0,1,0,1
+Analytics Manager,4.4,OneMagnify,"Dearborn, MI","Detroit, MI",Business Services,90,109,99, MI,0,53,0,1,0,0,0,1,0
+Data Scientist,2.9,SPECTRUM,"Maryland Heights, MO","Stamford, CT",Telecommunications,90,109,99, MO,0,4,1,1,1,0,0,0,1
+Staff Scientist- Upstream PD,2.7,Advanced BioScience Laboratories,"Rockville, MD","Rockville, MD",Biotech & Pharmaceuticals,90,109,99, MD,1,59,0,0,0,0,0,0,0
+Data Engineer,4.2,Procore Technologies,"Carpinteria, CA","Carpinteria, CA",Information Technology,90,109,99, CA,1,18,1,1,1,1,1,0,0
+Sr Scientist - Extractables & Leachables,3.5,Ritedose,"Columbia, SC","Columbia, SC",Biotech & Pharmaceuticals,90,109,99, SC,1,25,0,1,0,0,0,0,0
+ELISA RESEARCH SCIENTIST (CV-15),0.0,Covid-19 Search Partners,"Hauppauge, NY",-1,-1,90,109,99, NY,0,-1,0,0,0,0,0,0,0
+Sr Data Scientist,4.2,bioMérieux,"Saint Louis, MO","Marcy-l'Etoile, France",Biotech & Pharmaceuticals,90,109,99, MO,0,57,1,1,0,0,0,0,0
+Data Scientist,4.5,Novetta,"Herndon, VA","Mc Lean, VA",Information Technology,101,165,133, VA,0,8,1,1,0,0,1,0,0
+Experienced Data Scientist,4.4,Guzman & Griffin Technologies (GGTI),"Washington, DC","Mays Landing, NJ",Government,101,165,133, DC,0,23,1,1,1,1,0,1,0
+Machine Learning Engineer,0.0,Radical Convergence,"Reston, VA",-1,-1,101,165,133, VA,0,-1,1,0,0,0,0,0,0
+Data Scientist,3.5,Leidos,"Fort Meade, MD","Reston, VA",Aerospace & Defense,101,165,133, MD,0,51,0,0,0,0,1,0,1
+Data Scientist,4.5,Demandbase,"San Francisco, CA","San Francisco, CA",Information Technology,101,165,133, CA,1,14,1,0,0,1,1,0,1
+Say Business Data Analyst,4.1,Shelter Insurance,"Columbia, MO","Columbia, MO",Insurance,101,165,133, MO,1,74,1,1,0,0,1,1,0
+Geospatial Data Scientist,3.5,Maxar Technologies,"Chantilly, VA","Westminster, CO",Aerospace & Defense,101,165,133, VA,0,-1,0,0,0,0,0,0,0
+Data Analyst,2.7,USAC,"Washington, DC","Washington, DC",Telecommunications,101,165,133, DC,1,23,1,1,0,0,0,0,0
+Computational Scientist,3.4,General Dynamics Information Technology,"Vicksburg, MS","Fairfax, VA",Information Technology,101,165,133, MS,0,24,0,0,0,0,0,0,0
+Data Scientist,4.4,Offerpad,"Chandler, AZ","Chandler, AZ",Real Estate,101,165,133, AZ,1,5,1,1,0,0,0,0,0
+Senior Data Analyst,4.0,Autodesk,"San Francisco, CA","San Rafael, CA",Information Technology,101,165,133, CA,0,38,1,0,1,1,0,0,1
+Senior Data Analyst,4.2,Autodesk,"San Francisco, CA","Herndon, VA",Business Services,101,165,133, CA,0,52,1,0,1,1,0,1,1
+Data Engineer,3.5,Magna International Inc.,"Birmingham, AL","Aurora, Canada",-1,101,165,133, AL,0,63,1,0,1,1,1,0,1
+Sr Data Analyst,2.3,United BioSource,"Blue Bell, PA","Blue Bell, PA",Biotech & Pharmaceuticals,101,165,133, PA,1,17,0,1,0,0,0,1,0
+Data Scientist,3.4,Kelly,"Chicago, IL","Troy, MI",Business Services,101,165,133, IL,0,74,0,1,0,0,0,0,0
+"Machine Learning Scientist - Bay Area, CA",3.3,Tempus Labs,"Redwood City, CA","Chicago, IL",Biotech & Pharmaceuticals,101,165,133, CA,0,5,1,0,0,0,1,0,0
+Data Scientist,4.7,C3.ai,"Redwood City, CA","Redwood City, CA",Information Technology,101,165,133, CA,1,11,1,1,0,0,0,0,0
+Senior Data Scientist - Algorithms,3.9,Quartet Health,"New York, NY","New York, NY",Information Technology,101,165,133, NY,1,6,1,0,1,0,0,0,0
+Data Analyst,3.3,Midland Credit Management,"San Diego, CA","San Diego, CA",Finance,101,165,133, CA,1,67,1,1,0,0,0,0,0
+Senior Data & Machine Learning Scientist,3.3,Tempus Labs,"Chicago, IL","Chicago, IL",Biotech & Pharmaceuticals,101,165,133, IL,1,5,1,0,0,0,1,0,0
+Data Engineer,4.4,Resurgent Capital Services,"Cincinnati, OH","Greenville, SC",Finance,101,165,133, OH,0,22,1,1,0,0,1,0,0
+"Data Scientist - Statistics, Early Career",3.7,PNNL,"Richland, WA","Richland, WA","Oil, Gas, Energy & Utilities",56,97,76, WA,1,55,0,1,0,0,0,0,0
+Data Scientist,3.5,Buckman,"Memphis, TN","Memphis, TN",Manufacturing,56,97,76, TN,1,75,1,0,1,0,0,0,0
+Machine Learning Engineer,3.6,Buckman,"Memphis, TN","Arlington, VA",Government,56,97,76, TN,0,53,1,0,0,0,0,0,0
+Research Scientist - Patient-Centered Research (Remote),3.8,Evidera,"Bethesda, MD","Bethesda, MD",Biotech & Pharmaceuticals,56,97,76, MD,1,7,0,1,0,0,0,0,0
+Jr. Business Data Analyst (position added 6/12/2020),4.7,webfx.com,"Harrisburg, PA","Harrisburg, PA",Business Services,56,97,76, PA,1,23,0,1,0,0,0,0,0
+Sr. Data Scientist II,3.5,Argo Group US,"New York, NY","Hamilton, Bermuda",Insurance,56,97,76, NY,0,72,1,0,1,1,1,0,0
+Data Scientist,3.3,BWX Technologies,"Oak Ridge, TN","Lynchburg, VA",Aerospace & Defense,56,97,76, TN,0,170,1,0,0,0,0,0,0
+Senior Data Analyst,3.9,Life360,"San Francisco, CA","San Francisco, CA",Information Technology,56,97,76, CA,1,12,1,0,0,0,0,1,0
+Lead Data Scientist,3.7,MassMutual,"Boston, MA","Springfield, MA",Insurance,56,97,76, MA,0,169,1,0,1,1,1,0,0
+Production Engineer - Statistics/Data Analysis,3.9,Natera,"San Carlos, CA","San Carlos, CA",Biotech & Pharmaceuticals,56,97,76, CA,1,16,1,1,0,0,1,0,0
+Statistical Scientist,4.0,Genentech,"South San Francisco, CA","South San Francisco, CA",Biotech & Pharmaceuticals,56,97,76, CA,1,44,1,1,0,0,1,0,0
+Computational Behavioral Scientist,4.2,Ntrepid,"Herndon, VA","Herndon, VA",Information Technology,56,97,76, VA,1,10,1,0,0,0,0,0,0
+Principal Data Scientist - Machine Learning,3.6,Constant Contact,"Waltham, MA","Waltham, MA",Business Services,56,97,76, MA,1,25,1,1,1,1,1,0,1
+Principal Machine Learning Scientist,4.7,Sage Intacct,"San Francisco, CA","San Jose, CA",Information Technology,56,97,76, CA,0,21,1,0,0,0,0,0,0
+Data Engineer,4.1,Shape Security,"Santa Clara, CA","Mountain View, CA",Information Technology,56,97,76, CA,0,9,1,0,0,0,1,0,1
+Principal Data Scientist,4.0,AstraZeneca,"Gaithersburg, MD","Cambridge, United Kingdom",Biotech & Pharmaceuticals,56,97,76, MD,0,107,1,1,0,0,0,0,0
+Data Scientist,5.0,SkillSoniq,"San Francisco, CA","Jersey City, NJ",-1,56,97,76, CA,0,-1,1,0,0,0,0,0,0
+Senior Data Scientist - R&D Oncology,4.0,AstraZeneca,"New York, NY","Cambridge, United Kingdom",Biotech & Pharmaceuticals,56,97,76, NY,0,107,1,0,0,0,0,0,0
+Data Scientist,4.3,Joby Aviation,"San Carlos, CA","Santa Cruz, CA",-1,56,97,76, CA,0,-1,1,1,0,1,1,0,1
+"Health Plan Data Analyst, Sr",3.8,Cook Children's Health Care System,"Fort Worth, TX","Fort Worth, TX",Health Care,56,97,76, TX,1,102,0,0,0,0,0,0,0
+"Principal Scientist/Associate Director, Quality Control and Analytical Technologies",3.8,Rubius Therapeutics,"Smithfield, RI","Cambridge, MA",Biotech & Pharmaceuticals,56,97,76, RI,0,7,0,0,0,0,0,0,0
+Analytics - Business Assurance Data Analyst,4.6,GreatAmerica Financial Services,"Cedar Rapids, IA","Cedar Rapids, IA",Finance,56,97,76, IA,1,28,0,1,0,0,0,1,0
+Data Scientist - Contract,4.1,Upside Business Travel,Remote,"Washington, DC",Information Technology,79,106,92,Remote,0,5,1,0,0,0,0,0,0
+Data Scientist,3.4,Spectrum Communications and Consulting,"Chicago, IL","Chicago, IL",Business Services,79,106,92, IL,1,28,0,0,0,0,0,0,0
+Data Scientist,4.1,Coverent,"McLean, VA","McLean, VA",Business Services,79,106,92, VA,1,12,1,1,0,0,0,0,0
+Machine Learning Engineer,3.7,Mteq,"Fort Belvoir, VA","Lorton, VA",Aerospace & Defense,79,106,92, VA,0,66,1,0,0,0,0,0,0
+Data Engineer,4.4,Rocket Lawyer,"San Francisco, CA","San Francisco, CA",Information Technology,79,106,92, CA,1,12,1,1,1,0,0,0,1
+"Senior Data Scientist – Image Analytics, Novartis AI Innovation Lab",3.9,Novartis,"Cambridge, MA","Basel, Switzerland",Biotech & Pharmaceuticals,79,106,92, MA,0,24,0,0,0,0,0,0,0
+Data Engineer,3.6,Alion Science & Technology,"Linthicum Heights, MD","Mc Lean, VA",Business Services,79,106,92, MD,0,19,1,1,0,0,1,0,1
+Data Science Instructor,4.5,Novetta,"Herndon, VA","Mc Lean, VA",Information Technology,79,106,92, VA,0,8,0,1,0,0,0,0,0
+Senior Business Intelligence Analyst,3.7,Protolabs,"Maple Plain, MN","Maple Plain, MN",Manufacturing,79,106,92, MN,1,21,0,0,0,0,0,0,0
+In-Line Inspection Data Analyst,2.9,Quest Integrity,"Tulsa, OK","Kent, WA","Oil, Gas, Energy & Utilities",79,106,92, OK,0,24,0,1,0,0,0,0,0
+Data Scientist - TS/SCI FSP or CI Required,5.0,Phoenix Operations Group,"Annapolis Junction, MD","Woodbine, MD",Information Technology,79,106,92, MD,0,9,1,0,0,1,0,0,1
+Data Scientist,3.4,Dice.com,"Newton, MA","Denver, CO",Business Services,79,106,92, MA,0,30,1,1,0,0,1,0,0
+Senior Data Scientist,3.5,Maxar Technologies,"Herndon, VA","Westminster, CO",Aerospace & Defense,79,106,92, VA,0,-1,1,1,0,0,0,0,1
+Data Scientist - TS/SCI Required,5.0,Phoenix Operations Group,"Baltimore, MD","Woodbine, MD",Information Technology,79,106,92, MD,0,9,1,0,0,1,0,0,1
+Data Science Software Engineer,4.8,Klaviyo,"Boston, MA","Boston, MA",Information Technology,79,106,92, MA,1,8,1,0,0,0,0,0,0
+ENGINEER - COMPUTER SCIENTIST - RESEARCH COMPUTER SCIENTIST - SIGNAL PROCESSING - SAN ANTONIO OR,3.9,Southwest Research Institute,"Oklahoma City, OK","San Antonio, TX",Business Services,79,106,92, OK,0,73,1,1,0,0,0,0,0
+AI Ops Data Scientist,4.0,AstraZeneca,"Gaithersburg, MD","Cambridge, United Kingdom",Biotech & Pharmaceuticals,79,106,92, MD,0,107,1,0,1,1,1,0,0
+"Intelligence Data Analyst, Senior",4.3,The Buffalo Group,"Fort Belvoir, VA","Reston, VA",Information Technology,79,106,92, VA,0,10,1,0,0,0,0,0,0
+Analytics Manager - Data Mart,3.5,Central California Alliance for Health,"Scotts Valley, CA","Scotts Valley, CA",Health Care,79,106,92, CA,1,24,0,0,0,0,0,1,0
+Data Modeler (Analytical Systems),3.7,MassMutual,"Boston, MA","Springfield, MA",Insurance,79,106,92, MA,0,169,0,1,1,1,0,0,1
+"Senior Machine Learning Scientist - Bay Area, CA",3.3,Tempus Labs,"Redwood City, CA","Chicago, IL",Biotech & Pharmaceuticals,79,106,92, CA,0,5,1,0,0,0,1,0,0
+Report Writer-Data Analyst,3.1,Security Finance Corporation of Spartanburg,"Spartanburg, SC","Spartanburg, SC",Finance,79,106,92, SC,1,65,0,0,0,0,0,0,0
+Data Scientist/Machine Learning,4.3,PulsePoint,"New York, NY","New York, NY",Information Technology,71,123,97, NY,1,9,1,0,1,1,0,0,1
+Data Scientist - Risk,4.2,LSQ,"Orlando, FL","Orlando, FL",Finance,71,123,97, FL,1,24,1,1,1,1,1,1,1
+Data Engineer,4.4,Resurgent Capital Services,"Cincinnati, OH","Greenville, SC",Finance,71,123,97, OH,0,22,1,1,0,0,1,0,0
+Staff Data Scientist - Pricing,3.6,Opendoor,"San Francisco, CA","San Francisco, CA",Real Estate,71,123,97, CA,1,6,1,0,0,0,1,0,0
+Data Scientist,4.5,Global Data Management Inc,"Hartford, CT","Woodbridge, NJ",Information Technology,71,123,97, CT,0,12,1,0,0,0,0,0,0
+Data Scientist,3.0,Photon Infotech,"Chicago, IL","Chennai, India",Information Technology,71,123,97, IL,0,21,1,1,1,1,0,0,1
+Data Scientist,5.0,REE,United States,"Tel Aviv-Yafo, Israel",Manufacturing,71,123,97,United States,0,2,1,0,0,0,0,0,1
+Machine Learning Engineer,3.6,Riverside Research Institute,"Beavercreek, OH","Arlington, VA",Government,71,123,97, OH,0,53,1,0,0,0,0,0,0
+Equity Data Insights Analyst - Quantitative Analyst,3.6,T. Rowe Price,"Baltimore, MD","Baltimore, MD",Finance,71,123,97, MD,1,83,1,1,0,0,0,1,0
+Data Scientist,0.0,"Encode, Inc.","Norfolk, VA","Manalapan, NJ",Information Technology,71,123,97, VA,0,-1,0,1,0,0,1,0,1
+Research Scientist - Patient-Centered Research (Remote),3.8,Evidera,"Bethesda, MD","Bethesda, MD",Biotech & Pharmaceuticals,71,123,97, MD,1,7,0,1,0,0,0,0,0
+Data Scientist,3.3,BWX Technologies,"Oak Ridge, TN","Lynchburg, VA",Aerospace & Defense,71,123,97, TN,0,170,1,0,0,0,0,0,0
+Operations Data Analyst,3.8,Brighthouse Financial,"Charlotte, NC","Charlotte, NC",Insurance,71,123,97, NC,1,3,0,0,0,0,0,0,0
+Sr. Data Scientist II,3.5,Argo Group US,"New York, NY","Hamilton, Bermuda",Insurance,71,123,97, NY,0,72,1,0,1,1,1,0,0
+Data Scientist,3.3,II-VI Incorporated,"Champaign, IL","Saxonburg, PA",Telecommunications,71,123,97, IL,0,49,0,1,0,0,0,0,0
+Data Scientist,4.6,Surya Systems,"San Francisco, CA","Bristol, PA",Information Technology,71,123,97, CA,0,-1,1,0,1,0,0,1,0
+Data Scientist,3.8,PayPal,Texas,"San Jose, CA",Information Technology,71,123,97,Texas,0,22,1,1,1,1,0,0,1
+Senior Data Analyst,3.9,Life360,"San Francisco, CA","San Francisco, CA",Information Technology,71,123,97, CA,1,12,1,0,0,0,0,1,0
+Data Scientist,3.9,Predictive Research Inc,"Plano, TX","Bangalore, India",Business Services,71,123,97, TX,0,-1,1,0,0,0,0,0,0
+Data Scientist,4.7,Oversight Systems,"Atlanta, GA","Atlanta, GA",Information Technology,90,124,107, GA,1,17,1,1,0,0,0,0,0
+Senior Research Statistician- Data Scientist,4.8,Acuity Insurance,"Sheboygan, WI","Sheboygan, WI",Insurance,90,124,107, WI,1,95,0,0,0,0,0,0,0
+Software Data Engineer,3.1,1010data,"New York, NY","New York, NY",Information Technology,90,124,107, NY,1,20,1,1,0,0,1,0,0
+Data Scientist,3.6,Gigya,"Palo Alto, CA","Mountain View, CA",Information Technology,90,124,107, CA,0,14,0,0,0,0,0,0,1
+Real World Evidence (RWE) Scientist,5.0,Genesis Research,"Hoboken, NJ","Hoboken, NJ",Biotech & Pharmaceuticals,90,124,107, NJ,1,11,1,0,0,0,0,0,0
+Data Scientist,3.7,Sanofi,"Cambridge, MA","Paris, France",Biotech & Pharmaceuticals,90,124,107, MA,0,47,1,0,0,0,0,1,1
+Data Scientist,3.7,XPO Logistics,"Lebanon, IN","Greenwich, CT",Transportation & Logistics,90,124,107, IN,0,9,1,0,0,0,0,0,1
+Data Scientist,3.9,Trace Data,"Oakland, CA","Santa Ana, CA",Insurance,90,124,107, CA,0,20,1,0,0,1,0,0,0
+Data Scientist,4.3,Descript,"San Francisco, CA","Houston, TX",-1,90,124,107, CA,0,-1,1,0,0,0,0,0,0
+Computer Scientist 1,4.2,Rincon Research Corporation,"Melbourne, FL","Tucson, AZ",Aerospace & Defense,90,124,107, FL,0,37,1,0,0,0,0,0,0
+Lead Data Scientist,3.7,MassMutual,"Boston, MA","Springfield, MA",Insurance,90,124,107, MA,0,169,1,0,1,1,1,0,0
+Data Scientist,4.0,Better Hire,"Birmingham, AL","Birmingham, AL",-1,90,124,107, AL,1,-1,0,0,0,0,0,0,0
+Data Scientist,3.3,Parker Hannifin,"Cleveland, OH","Cleveland, OH",Manufacturing,90,124,107, OH,1,103,1,1,0,0,0,0,0
+Data Scientist,4.1,Gallup,"New York, NY","Washington, DC",Business Services,90,124,107, NY,0,85,1,1,0,0,0,0,0
+Data Scientist,3.3,Insider Inc,"New York, NY","New York, NY",Media,90,124,107, NY,1,13,1,1,0,0,0,0,0
+Data Scientist,3.9,Rapid Value Solutions,"San Francisco, CA","Pleasanton, CA",Information Technology,90,124,107, CA,0,11,1,0,0,0,1,0,0
+Environmental Data Science,3.1,Battelle,"Norwell, MA","Columbus, OH",Business Services,90,124,107, MA,0,91,0,1,0,0,0,0,0
+Computational Behavioral Scientist,4.2,Ntrepid,"Herndon, VA","Herndon, VA",Information Technology,90,124,107, VA,1,10,1,0,0,0,0,0,0
+Data Scientist,5.0,"The Drive Media, Inc.","New York, NY",-1,-1,90,124,107, NY,0,-1,1,1,0,0,0,0,0
+Staff BI and Data Engineer,2.9,Affinity Solutions,"San Jose, CA","New York, NY",Business Services,90,124,107, CA,0,22,1,0,0,1,0,1,1
+Principal Machine Learning Scientist,4.7,Sage Intacct,"San Francisco, CA","San Jose, CA",Information Technology,90,124,107, CA,0,21,1,0,0,0,0,0,0
+Principal Data Scientist - Machine Learning,3.6,Constant Contact,"Waltham, MA","Waltham, MA",Business Services,90,124,107, MA,1,25,1,1,1,1,1,0,1
+Data Scientist-Human Resources,3.8,MIT Lincoln Laboratory,"Lexington, MA","Lexington, MA",Aerospace & Defense,91,150,120, MA,1,69,1,0,1,1,0,0,1
+Associate Data Scientist,3.3,Puget Sound Energy,"Bothell, WA","Bellevue, WA","Oil, Gas, Energy & Utilities",91,150,120, WA,0,21,0,1,1,1,0,0,0
+"Data Scientist - Statistics, Mid-Career",3.7,Pacific Northwest National Laboratory,"Richland, WA","Richland, WA","Oil, Gas, Energy & Utilities",91,150,120, WA,1,55,0,0,0,0,0,0,0
+Director of Data Science,3.8,Analysis Group,"Boston, MA","Boston, MA",Business Services,91,150,120, MA,1,39,1,1,0,0,1,0,0
+Data Scientist,3.2,US Pharmacopeia,"Rockville, MD","Rockville, MD",Biotech & Pharmaceuticals,91,150,120, MD,1,200,1,1,0,0,0,1,0
+Data Scientist,4.6,Itlize Global,"Piscataway, NJ","Piscataway, NJ",Information Technology,91,150,120, NJ,1,10,1,0,1,1,0,0,1
+Data Scientist,3.5,eBay,"San Jose, CA","San Jose, CA",Information Technology,91,150,120, CA,1,25,1,0,1,0,0,1,1
+"Data Engineer, Digital & Comp Pathology",5.0,Paige,"New York, NY","New York, NY",Information Technology,91,150,120, NY,1,2,1,1,0,0,1,0,0
+Data Engineer,4.1,Shape Security,"Santa Clara, CA","Mountain View, CA",Information Technology,91,150,120, CA,0,9,1,0,0,0,1,0,1
+"Manager / Lead, Data Science & Analytics",4.1,ABIOMED,"Danvers, MA","Danvers, MA",Biotech & Pharmaceuticals,91,150,120, MA,1,39,1,1,0,0,0,1,0
+Data Scientist,3.5,Comcast,"New York, NY","Philadelphia, PA",-1,91,150,120, NY,0,57,1,0,0,0,1,1,0
+Data Scientist,3.2,"Metronome, LLC","Vienna, VA","Fairfax, VA",Information Technology,91,150,120, VA,0,9,1,0,0,1,0,0,1
+Data Scientist,5.0,SkillSoniq,"San Francisco, CA","Jersey City, NJ",-1,91,150,120, CA,0,-1,1,0,0,0,0,0,0
+Data Scientist,4.7,Lawrence Livermore National Lab,"Livermore, CA","Livermore, CA",Government,91,150,120, CA,1,68,1,1,0,0,0,0,1
+Diversity and Inclusion Data Analyst,3.8,FHLBank Pittsburgh,"Pittsburgh, PA","Pittsburgh, PA",Finance,91,150,120, PA,1,88,0,0,0,0,1,1,0
+Data Scientist,3.6,Jacobs,"Herndon, VA","Dallas, TX",Business Services,91,150,120, VA,0,73,1,0,1,1,1,1,0
+Data Scientist,4.8,Klaviyo,"Boston, MA","Boston, MA",Information Technology,91,150,120, MA,1,8,0,0,0,0,0,0,0
+Data Scientist,3.3,Underwriters Laboratories,"Northbrook, IL","Northbrook, IL",Business Services,91,150,120, IL,1,126,0,0,0,1,0,0,0
+Data Scientist,3.7,Altus Group,"Irvine, CA","Toronto, Canada",Real Estate,91,150,120, CA,0,15,1,1,0,0,1,1,0
+Data Scientist,5.0,Jobot,"Irvine, CA","Irvine, CA",Business Services,91,150,120, CA,1,2,1,1,0,0,0,1,0
+Data Scientist,0.0,Trovetechs Inc,"San Francisco, CA","Hillsborough, NJ",-1,91,150,120, CA,0,-1,0,0,0,0,0,0,0
+Senior Analyst/Data Scientist,3.4,Edmunds.com,"Santa Monica, CA","Santa Monica, CA",Information Technology,141,225,183, CA,1,54,1,1,0,0,1,1,0
+Data Scientist,5.0,Cohere Health,"Boston, MA","Boston, MA",Information Technology,141,225,183, MA,1,1,1,1,0,0,0,0,0
+Data Scientist,0.0,Trovetechs Inc,"San Francisco, CA","Hillsborough, NJ",-1,141,225,183, CA,0,-1,0,0,0,0,0,0,0
+Senior Data Scientist - R&D Oncology,4.0,AstraZeneca,"New York, NY","Cambridge, United Kingdom",Biotech & Pharmaceuticals,141,225,183, NY,0,107,1,0,0,0,0,0,0
+Data Scientist,4.2,Oshkosh Corporation,"Oshkosh, WI","Oshkosh, WI",Manufacturing,141,225,183, WI,1,103,1,1,1,1,0,0,1
+Data Scientist,4.3,Joby Aviation,"San Carlos, CA","Santa Cruz, CA",-1,141,225,183, CA,0,-1,1,1,0,1,1,0,1
+Data Scientist,3.4,Mackin,"Menlo Park, CA","Pittsburgh, PA",Business Services,141,225,183, CA,0,60,1,0,0,0,0,0,0
+Data Scientist,0.0,PETADATA,"San Francisco, CA","Fremont, CA",-1,141,225,183, CA,0,-1,1,1,0,0,0,1,0
+Data Scientist,4.4,VBeyond Corporation,"Dallas, TX","Hillsborough, NJ",Business Services,141,225,183, TX,0,14,1,0,0,0,0,0,0
+Data Scientist Machine Learning,3.5,Leidos,"Arlington, VA","Reston, VA",Aerospace & Defense,141,225,183, VA,0,51,1,0,0,0,1,0,0
+Data Scientist,3.7,Take-Two,"San Francisco, CA","New York, NY",Media,141,225,183, CA,0,27,1,1,0,1,1,1,0
+Data Scientist,3.7,Colony Brands,"Monroe, WI","Monroe, WI",Retail,141,225,183, WI,1,-1,1,0,0,0,0,0,0
+Data Scientist,4.1,Capio Group,"Sacramento, CA","Goteborg, Sweden",Health Care,141,225,183, CA,0,-1,1,0,0,0,0,0,0
+Data Scientist,3.4,SleePare,"New York, NY","New York, NY",Retail,141,225,183, NY,1,3,1,0,0,1,0,0,0
+Data Analyst,4.5,ShorePoint,"Reston, VA","Washington, DC",Information Technology,141,225,183, VA,0,3,0,1,0,0,0,1,0
+Data Scientist,3.5,Dolphin,"New York, NY","Lake Buena Vista, FL",Travel & Tourism,141,225,183, NY,0,30,1,0,0,1,0,0,0
+Data Scientist,3.6,TE Connectivity,"Hampton, VA","Schaffhausen, Switzerland",Manufacturing,141,225,183, VA,0,13,0,0,0,0,0,0,0
+Data Scientist,3.2,State of Virginia,"Richmond, VA","Richmond, VA",Government,141,225,183, VA,1,232,1,0,1,0,0,0,1
+Data Scientist,3.7,TA Digital,"New York, NY","Newark, CA",Information Technology,141,225,183, NY,0,20,1,0,0,0,1,0,1
+Data Scientist,4.0,Market America Inc,"Monterey, CA","Greensboro, NC",Retail,141,225,183, CA,0,28,1,1,1,1,0,0,0
+Data Scientist,3.2,Triplebyte,"Chicago, IL","San Francisco, CA",Information Technology,145,225,185, IL,0,5,0,0,0,0,0,0,0
+Data Scientist,4.5,Kingfisher Systems,"McLean, VA","Falls Church, VA",Government,145,225,185, VA,0,15,1,0,0,0,0,1,0
+Chief Scientist,3.4,TrueAccord,Remote,"San Francisco, CA",Information Technology,145,225,185,Remote,0,7,1,0,0,0,0,0,0
+Data Scientist,3.9,ALTA IT Services,"Woodlawn, MD","Rockville, MD",Information Technology,145,225,185, MD,0,16,1,0,0,0,0,1,0
+Data Scientist,3.2,Kollasoft Inc.,United States,"Scottsdale, AZ",Information Technology,145,225,185,United States,0,-1,1,1,0,0,0,0,0
+Data Scientist,5.0,Kollasoft Inc.,"New York, NY","Irving, TX",-1,145,225,185, NY,0,-1,1,1,0,0,0,0,0
+Data Scientist,3.4,ASRC Federal Holding Company,"Reston, VA","Beltsville, MD",Aerospace & Defense,145,225,185, VA,0,17,0,1,0,0,0,0,0
+Data Scientist,4.4,Adwait Algorithm,"New York, NY","Houston, TX",Information Technology,145,225,185, NY,0,5,1,0,1,1,0,0,1
+"Health Plan Data Analyst, Sr",3.8,Cook Children's Health Care System,"Fort Worth, TX","Fort Worth, TX",Health Care,145,225,185, TX,1,102,0,0,0,0,0,0,0
+"Principal Scientist/Associate Director, Quality Control and Analytical Technologies",3.8,Rubius Therapeutics,"Smithfield, RI","Cambridge, MA",Biotech & Pharmaceuticals,145,225,185, RI,0,7,0,0,0,0,0,0,0
+Data Scientist,3.5,Cambridge FX,"Atlanta, GA","Toronto, Canada",Finance,145,225,185, GA,0,28,1,1,0,0,0,1,0
+Senior Data Scientist,3.8,Metromile,"San Francisco, CA","San Francisco, CA",Insurance,145,225,185, CA,1,9,1,0,0,1,1,0,0
+Data Scientist,3.9,Criteo,"Ann Arbor, MI","Paris, France",Information Technology,145,225,185, MI,0,15,1,0,1,1,0,0,1
+Data Scientist,3.4,Advance Sourcing Concepts,"Pittsburgh, PA","Pittsburgh, PA",-1,145,225,185, PA,1,-1,1,0,0,0,1,0,0
+Data Scientist,3.8,Enterprise Solutions Inc,"New York, NY","Naperville, IL",Business Services,145,225,185, NY,0,20,1,1,0,0,0,1,0
+Analytics - Business Assurance Data Analyst,4.6,GreatAmerica Financial Services,"Cedar Rapids, IA","Cedar Rapids, IA",Finance,145,225,185, IA,1,28,0,1,0,0,0,1,0
+Data Scientist,0.0,Microagility,"New York, NY","Princeton, NJ",Business Services,145,225,185, NY,0,-1,0,1,0,0,0,0,0
+Data Scientist,4.6,"Conch Technologies, Inc","Concord, CA","Memphis, TN",Business Services,145,225,185, CA,0,-1,0,0,0,0,0,0,0
+"Development Scientist, Voltaren",3.9,GSK,"Richmond, VA","Brentford, United Kingdom",Biotech & Pharmaceuticals,145,225,185, VA,0,190,0,0,0,0,1,0,0
+Data Scientist,0.0,"Rainmaker Resources, LLC","Cincinnati, OH","Cincinnati, OH",-1,145,225,185, OH,1,-1,0,1,0,0,0,0,1
+Data Scientist,3.7,GovTech,"San Francisco, CA","Singapore, Singapore",Government,79,147,113, CA,0,4,1,1,0,0,0,1,0
+Data Scientist,3.3,Intellectual Ventures,"Bellevue, WA","Bellevue, WA",Finance,79,147,113, WA,1,20,1,1,0,0,0,0,0
+Data Engineer,4.4,Rocket Lawyer,"San Francisco, CA","San Francisco, CA",Information Technology,79,147,113, CA,1,12,1,1,1,0,0,0,1
+Data Scientist,3.7,22nd Century Technologies,"Oakland, CA","Somerset, NJ",Information Technology,79,147,113, CA,0,23,0,0,0,0,0,0,1
+Data Scientist,3.3,Huxley,"San Francisco, CA","London, United Kingdom",Business Services,79,147,113, CA,0,25,1,0,0,0,0,0,0
+Data Scientist,3.4,FM Systems,"Boston, MA","Raleigh, NC",Information Technology,79,147,113, MA,0,36,1,1,0,1,1,0,1
+Data Scientist,0.0,B4Corp,"Reston, VA","Leesburg, VA",Information Technology,79,147,113, VA,0,-1,1,1,0,0,0,0,0
+Machine Learning Engineer,3.7,Mteq,"Fort Belvoir, VA","Lorton, VA",Aerospace & Defense,79,147,113, VA,0,66,1,0,0,0,0,0,0
+Principal Data & Analytics Platform Engineer,3.7,Blue Cross and Blue Shield of North Carolina,"Durham, NC","Durham, NC",Insurance,79,147,113, NC,1,87,1,1,0,1,1,0,1
+Machine Learning Engineer/Scientist,4.8,Jane Street,"New York, NY","New York, NY",Finance,79,147,113, NY,1,20,0,0,0,0,0,0,0
+Data Scientist,5.0,SSATI,"McLean, VA","Annapolis Junction, MD",Information Technology,79,147,113, VA,0,17,1,1,0,0,0,0,0
+"Senior Data Scientist – Image Analytics, Novartis AI Innovation Lab",3.9,Novartis,"Cambridge, MA","Basel, Switzerland",Biotech & Pharmaceuticals,79,147,113, MA,0,24,0,0,0,0,0,0,0
+Data Scientist,3.4,Solving IT International Inc,"Chicago, IL","Chicago, IL",-1,79,147,113, IL,1,-1,0,1,0,0,0,0,0
+Data Scientist,3.3,The Davey Tree Expert Company,"Kent, OH","Kent, OH",Agriculture & Forestry,79,147,113, OH,1,140,1,1,0,0,0,0,0
+Data Scientist,4.6,Centauri,"Reston, VA","Chantilly, VA",Aerospace & Defense,79,147,113, VA,0,21,0,0,0,0,0,0,0
+Data Scientist,0.0,Stride Search,"San Francisco, CA","Westlake Village, CA",-1,79,147,113, CA,0,-1,1,0,0,0,0,0,0
+Machine Learning Engineer,2.6,Software Engineering Institute,"Pittsburgh, PA","Pittsburgh, PA",Education,79,147,113, PA,1,36,1,0,0,0,0,0,0
+Data Analyst - Unilever Prestige,3.8,Dermalogica,"Carson, CA","Carson, CA",Manufacturing,79,147,113, CA,1,34,1,0,0,0,0,1,0
+Data Scientist,4.8,TechProjects,"New York, NY","North Brunswick, NJ",Information Technology,79,147,113, NY,0,9,1,1,0,0,0,1,0
+"VP, Data Science",3.9,7Park Data,"New York, NY","New York, NY",Business Services,79,147,113, NY,1,8,1,1,0,1,0,0,0
+Data Scientist,4.0,Netskope,"Santa Clara, CA","Santa Clara, CA",Information Technology,122,146,134, CA,1,8,1,1,0,1,0,0,1
+Data Scientist,4.2,Eversight,"Palo Alto, CA","Palo Alto, CA",Information Technology,122,146,134, CA,1,7,1,0,0,0,0,0,0
+Senior Business Intelligence Analyst,3.7,Protolabs,"Maple Plain, MN","Maple Plain, MN",Manufacturing,122,146,134, MN,1,21,0,0,0,0,0,0,0
+Data Scientist,3.0,Ameritas Life Insurance Corp,"Cincinnati, OH","Lincoln, NE",Insurance,122,146,134, OH,0,133,0,0,0,0,0,0,0
+Data Engineer - Kafka,3.5,Western Digital,"San Jose, CA","San Jose, CA",Information Technology,122,146,134, CA,1,50,1,0,1,1,1,0,0
+Data Scientist,2.9,"Shimento, Inc.","Santa Clara, CA","Benicia, CA",-1,122,146,134, CA,0,-1,1,0,1,1,0,0,1
+Data Scientist,5.0,Averity,"New York, NY","New York, NY",Business Services,122,146,134, NY,1,6,0,0,0,0,0,0,0
+Data Scientist,4.7,Praxis Engineering,"Chantilly, VA","Annapolis Junction, MD",Information Technology,122,146,134, VA,0,18,0,0,0,0,1,0,1
+Data Scientist,0.0,Point72 Ventures,"Palo Alto, CA",-1,-1,122,146,134, CA,0,-1,0,0,0,0,0,0,0
+Decision Scientist,4.5,Johns Hopkins University Applied Physics Laboratory,"Laurel, MD","Laurel, MD",Aerospace & Defense,122,146,134, MD,1,78,0,1,0,1,0,0,0
+Data Scientist,4.9,Cambridge Mobile Telematics,"Cambridge, MA","Cambridge, MA",Information Technology,122,146,134, MA,1,10,1,0,0,1,1,0,0
+Data Science All Star Program - Data Engineer Track,4.6,Blend360,"Columbia, MD","Columbia, MD",Business Services,122,146,134, MD,1,18,1,0,1,1,1,0,0
+Data Scientist - TS/SCI FSP or CI Required,5.0,Phoenix Operations Group,"Annapolis Junction, MD","Woodbine, MD",Information Technology,122,146,134, MD,0,9,1,0,0,1,0,0,1
+Data Analyst,3.9,Nolij Consulting,"Falls Church, VA","Vienna, VA",Business Services,122,146,134, VA,0,8,1,1,0,0,0,1,0
+Data Scientist,0.0,Hatch Data Inc,"San Francisco, CA",-1,-1,122,146,134, CA,0,-1,1,0,0,1,1,0,0
+Data Scientist,0.0,Hatch Data Inc,"San Francisco, CA",-1,-1,122,146,134, CA,0,-1,1,0,0,1,1,0,0
+Data Scientist,0.0,Hatch Data Inc,"San Francisco, CA",-1,-1,122,146,134, CA,0,-1,1,0,0,1,1,0,0
+Data Scientist,0.0,Hatch Data Inc,"San Francisco, CA",-1,-1,122,146,134, CA,0,-1,1,0,0,1,1,0,0
+Data Scientist,0.0,Hatch Data Inc,"San Francisco, CA",-1,-1,122,146,134, CA,0,-1,1,0,0,1,1,0,0
+Data Scientist,0.0,Hatch Data Inc,"San Francisco, CA",-1,-1,122,146,134, CA,0,-1,1,0,0,1,1,0,0
+Senior Data Scientist,3.5,Maxar Technologies,"Herndon, VA","Westminster, CO",Aerospace & Defense,122,146,134, VA,0,-1,1,1,0,0,0,0,1
+Data Scientist,4.3,Quick Base,"Cambridge, MA","Cambridge, MA",Information Technology,112,116,114, MA,1,21,1,1,0,0,0,1,0
+Data Scientist,3.7,Takeda,"Cambridge, MA","OSAKA, Japan",Biotech & Pharmaceuticals,112,116,114, MA,0,239,1,0,0,1,0,0,0
+Data Scientist,3.5,Maxar Technologies,"Herndon, VA","Westminster, CO",Aerospace & Defense,112,116,114, VA,0,-1,1,0,1,1,0,1,0
+ENGINEER - COMPUTER SCIENTIST - RESEARCH COMPUTER SCIENTIST - SIGNAL PROCESSING - SAN ANTONIO OR,3.9,Southwest Research Institute,"Oklahoma City, OK","San Antonio, TX",Business Services,112,116,114, OK,0,73,1,1,0,0,0,0,0
+Data Scientist,4.7,Compass Consulting Group,"Thousand Oaks, CA","Danville, CA",Business Services,112,116,114, CA,0,12,1,0,0,0,0,0,0
+Data Science Software Engineer,4.8,Klaviyo,"Boston, MA","Boston, MA",Information Technology,112,116,114, MA,1,8,1,0,0,0,0,0,0
+AI Ops Data Scientist,4.0,AstraZeneca,"Gaithersburg, MD","Cambridge, United Kingdom",Biotech & Pharmaceuticals,112,116,114, MD,0,107,1,0,1,1,1,0,0
+Data Scientist,4.4,"SolutionIT, Inc.","Edison, NJ","Wilmington, MA",-1,112,116,114, NJ,0,-1,0,0,0,0,0,0,0
+Data Scientist,3.2,Perspecta,"Adelphi, MD","Chantilly, VA",Aerospace & Defense,112,116,114, MD,0,2,1,0,1,0,0,0,1
+Data Scientist,4.5,Smith Hanley Associates,"Washington, DC","New York, 061",Business Services,112,116,114, DC,0,40,1,0,0,0,0,0,0
+Scientist - Machine Learning,3.5,Allen Institute,"Seattle, WA","Seattle, WA",Business Services,112,116,114, WA,1,17,0,0,0,0,0,0,0
+Data Scientist,4.4,Eliassen Group,"Plano, TX","Reading, MA",Business Services,112,116,114, TX,0,31,1,0,0,0,0,0,0
+Data Scientist,3.1,Bayside Solutions,"Sunnyvale, CA","Pleasanton, CA",Business Services,112,116,114, CA,0,19,1,1,0,0,0,1,0
+Sr. Data Scientist,3.5,Evolve Vacation Rental,"Denver, CO","Denver, CO",Travel & Tourism,112,116,114, CO,1,9,1,0,0,0,0,0,0
+Data Scientist,3.8,AgreeYa Solutions,"Thousand Oaks, CA","Folsom, CA",Information Technology,112,116,114, CA,0,21,1,1,0,0,0,0,0
+Data Scientist,3.7,Carolina Power & Light Co,"McLean, VA","Raleigh, NC","Oil, Gas, Energy & Utilities",112,116,114, VA,0,112,1,1,0,0,0,0,1
+Analytics Manager - Data Mart,3.5,Central California Alliance for Health,"Scotts Valley, CA","Scotts Valley, CA",Health Care,112,116,114, CA,1,24,0,0,0,0,0,1,0
+Data Modeler (Analytical Systems),3.7,MassMutual,"Boston, MA","Springfield, MA",Insurance,112,116,114, MA,0,169,0,1,1,1,0,0,1
+Applied AI Scientist / Engineer,5.0,"New Iron Group, Inc.","Boston, MA","Austin, TX",Information Technology,112,116,114, MA,0,17,1,0,0,0,0,0,0
+"Data Engineer (Analytics, SQL, Python, AWS)",4.0,Travelers,"Hartford, CT","Hartford, CT",Insurance,112,116,114, CT,1,167,1,0,0,1,1,0,1
+Senior Data Analyst - Finance & Platform Analytics,3.6,Twitch,"San Francisco, CA","San Francisco, CA",Information Technology,112,116,114, CA,1,9,1,0,0,0,0,1,0
+Senior Data Scientist,4.8,Klaviyo,"Boston, MA","Boston, MA",Information Technology,110,163,136, MA,1,8,0,0,0,0,0,0,0
+Market Research Data Scientist,3.8,GutCheck,"Denver, CO","Denver, CO",Business Services,110,163,136, CO,1,11,0,1,0,0,0,0,0
+IT Partner Digital Health Technology and Data Science,3.6,Biogen,"Cambridge, MA","Cambridge, MA",Biotech & Pharmaceuticals,110,163,136, MA,1,42,0,1,0,0,0,0,0
+Data Scientist,0.0,HireAi,"San Francisco, CA",-1,-1,110,163,136, CA,0,-1,1,1,0,1,0,1,0
+Data Scientist,0.0,HireAi,"San Francisco, CA",-1,-1,110,163,136, CA,0,-1,1,1,0,1,0,1,0
+"Senior Machine Learning Scientist - Bay Area, CA",3.3,Tempus Labs,"Redwood City, CA","Chicago, IL",Biotech & Pharmaceuticals,110,163,136, CA,0,5,1,0,0,0,1,0,0
+"Software Engineer (Data Scientist, C,C++,Linux,Unix) - SISW - MG",4.1,Mentor Graphics,"Fremont, CA","Wilsonville, OR",Information Technology,110,163,136, CA,0,39,1,1,0,0,0,0,0
+Senior Clinical Data Scientist Programmer,3.6,WCG (WIRB-Copernicus Group),"Hamilton, NJ","Princeton, NJ",Biotech & Pharmaceuticals,110,163,136, NJ,0,-1,0,1,0,0,0,0,0
+Data Engineer,4.5,Kingfisher Systems,"Falls Church, VA","Falls Church, VA",Government,110,163,136, VA,1,15,1,0,0,0,0,0,0
+Computer Vision / Deep Learning Scientist,3.3,Tempus Labs,"Chicago, IL","Chicago, IL",Biotech & Pharmaceuticals,110,163,136, IL,1,5,0,0,0,0,1,0,0
+Data Solutions Engineer - Data Modeler,3.4,Liberty Mutual Insurance,"Indianapolis, IN","Boston, MA",Insurance,110,163,136, IN,0,108,1,0,0,0,0,0,0
+Data Scientist,4.3,Visionary Integration Professionals,"Washington, DC","Folsom, CA",Information Technology,110,163,136, DC,0,24,0,1,0,0,0,0,0
+Data Scientist (TS/SCI w/ Poly),3.5,Maxar Technologies,"Herndon, VA","Westminster, CO",Aerospace & Defense,110,163,136, VA,0,-1,1,0,0,0,0,0,0
+Weapons and Sensors Engineer/Scientist,4.0,Dynetics,"Huntsville, AL","Huntsville, AL",Aerospace & Defense,110,163,136, AL,1,46,1,0,0,0,0,0,0
+Applied Computer Scientist,4.5,Systems & Technology Research,"Woburn, MA","Woburn, MA",Aerospace & Defense,110,163,136, MA,1,10,0,0,0,0,0,0,0
+Senior Data Analyst,4.5,Novetta,"Herndon, VA","Mc Lean, VA",Information Technology,110,163,136, VA,0,8,1,1,0,0,0,0,0
+Cloud Data Engineer (Azure),3.9,Navy Federal Credit Union,"Merrifield, VA","Vienna, VA",Finance,110,163,136, VA,0,87,0,0,0,0,0,1,0
+"Lead Certified Clinical Laboratory Scientist - Saturday - Tuesday, 8:00pm - 6:30am shift",4.0,Exact Sciences Corporation,"Madison, WI","Madison, WI",Health Care,110,163,136, WI,1,25,0,0,0,0,0,0,0
+Sr. Data Analyst,3.6,Community Behavioral Health,"Philadelphia, PA","Phila, PA",Health Care,110,163,136, PA,0,26,0,1,0,0,0,1,0
+Senior Scientist - Toxicologist - Product Integrity (Stewardship),3.3,Reynolds American,"Winston-Salem, NC","Winston-Salem, NC",Manufacturing,110,163,136, NC,1,145,0,1,0,0,0,0,0
+Senior Machine Learning Engineer,5.0,LifeOmic,"Raleigh, NC","Indianapolis, IN",Information Technology,110,163,136, NC,0,4,0,0,0,1,1,0,0
+Product Data Scientist - Ads Data Science,4.1,Twitter,"San Francisco, CA","San Francisco, CA",Information Technology,124,198,161, CA,1,14,1,0,0,0,0,0,0
+Data Scientist,3.2,Postmates - Corporate HQ,"San Francisco, CA","San Francisco, CA",Transportation & Logistics,124,198,161, CA,1,9,1,0,0,1,0,0,0
+Data Scientist,4.9,"Visionist, Inc.","Columbia, MD","Columbia, MD",Information Technology,124,198,161, MD,1,10,1,0,1,1,0,1,0
+Data Scientist,0.0,Navio,"San Mateo, CA","Half Moon Bay, CA",-1,124,198,161, CA,0,-1,0,0,0,0,1,0,0
+Data Scientist,3.3,Concerto HealthAI,"Boston, MA","Boston, MA",Biotech & Pharmaceuticals,124,198,161, MA,1,2,1,0,0,0,0,0,0
+Data Scientist,0.0,Evolvinc,"Burbank, CA","Los Angeles, CA",Information Technology,124,198,161, CA,0,15,1,1,1,1,1,0,1
+Data Scientist,5.0,PROPRIUS,"Sunnyvale, CA","London, United Kingdom",Information Technology,124,198,161, CA,0,-1,1,0,1,1,0,1,1
+Data Scientist,3.4,TECHNOCRAFT Solutions,"San Ramon, CA","Hilliard, OH",Business Services,124,198,161, CA,0,-1,1,0,0,0,0,0,1
+Data Scientist,4.1,"Latitude, Inc.","Washington, DC","Hanover, MD",Business Services,124,198,161, DC,0,-1,1,0,0,0,0,1,0
+Data Scientist,5.0,Royce Geospatial,"Springfield, VA","Arlington, VA",Aerospace & Defense,124,198,161, VA,0,6,1,0,0,0,0,0,1
+Data Scientist,4.2,CyberCoders,"Phoenix, AZ","Irvine, CA",Business Services,124,198,161, AZ,0,21,1,0,0,0,0,0,0
+Data Scientist,3.7,Booz Allen Hamilton Inc.,"Oxnard, CA","Mc Lean, VA",Business Services,124,198,161, CA,0,106,1,0,1,0,0,1,1
+Data Scientist,3.8,Burns & McDonnell,"Kansas City, MO","Kansas City, MO",Business Services,124,198,161, MO,1,122,1,1,0,0,0,0,0
+Data Scientist,4.8,InvenTech Info,"Jersey City, NJ","Bengaluru, India",Information Technology,124,198,161, NJ,0,10,1,0,0,0,0,0,0
+Data Scientist,3.5,Robert Half,"Manchester, NH","Menlo Park, CA",Business Services,124,198,161, NH,0,72,1,0,1,1,0,0,0
+Analytics - Business Assurance Data Analyst,4.6,GreatAmerica Financial Services,"Cedar Rapids, IA","Cedar Rapids, IA",Finance,124,198,161, IA,1,28,0,1,0,0,0,1,0
+Data Scientist,4.5,Conflux Systems Inc.,"Winters, TX","Alpharetta, GA",Accounting & Legal,124,198,161, TX,0,-1,1,1,1,1,1,0,0
+Data Scientist,3.9,Criteo,"Ann Arbor, MI","Paris, France",Information Technology,124,198,161, MI,0,15,1,0,1,1,0,0,1
+Data Scientist,3.4,Voice,"Brooklyn, NY",-1,-1,124,198,161, NY,0,-1,1,0,0,0,0,0,0
+Data Scientist,0.0,Microagility,"New York, NY","Princeton, NJ",Business Services,124,198,161, NY,0,-1,0,1,0,0,0,0,0
+Data Scientist,4.1,Coverent,"McLean, VA","McLean, VA",Business Services,124,198,161, VA,1,12,1,1,0,0,0,0,0
+Data Scientist,3.7,Via Transportation,"New York, NY","New York, NY",Information Technology,79,133,106, NY,1,8,1,0,0,0,0,1,0
+Senior Data Scientist,3.5,Benson Hill,"Saint Louis, MO","Saint Louis, MO",Biotech & Pharmaceuticals,79,133,106, MO,1,8,1,1,0,0,0,0,1
+Data Scientist,4.6,"Conch Technologies, Inc","Concord, CA","Memphis, TN",Business Services,79,133,106, CA,0,-1,0,0,0,0,0,0,0
+Data Scientist,0.0,Falcon IT & Staffing Solutions,"Fort Belvoir, VA","Washington, DC",-1,79,133,106, VA,0,-1,1,1,0,0,0,0,0
+Data Scientist,0.0,"Rainmaker Resources, LLC","Cincinnati, OH","Cincinnati, OH",-1,79,133,106, OH,1,-1,0,1,0,0,0,0,1
+Data Engineer,4.4,Rocket Lawyer,"San Francisco, CA","San Francisco, CA",Information Technology,79,133,106, CA,1,12,1,1,1,0,0,0,1
+Data Scientist,3.6,DataLab USA,"Germantown, MD","Germantown, MD",Information Technology,79,133,106, MD,1,-1,1,1,0,0,0,1,0
+Data Scientist,3.1,Werner Enterprises Inc,"Omaha, NE","Omaha, NE",Transportation & Logistics,79,133,106, NE,1,64,0,0,0,0,0,0,0
+Data Scientist,5.0,PeopleCom,"McLean, VA","Reston, VA",-1,79,133,106, VA,0,-1,1,0,0,0,0,0,0
+Data Scientist - Machine Learning,5.0,VANTA Partners,"Open Fork, VA","Clifton Park, NY",Business Services,79,133,106, VA,0,2,1,0,0,1,0,0,0
+Data Scientist,0.0,B4Corp,"Reston, VA","Leesburg, VA",Information Technology,79,133,106, VA,0,-1,1,1,0,0,0,0,0
+Data Scientist,0.0,"Blue Icy Water, LLC",United States,"Livonia, MI",-1,79,133,106,United States,0,-1,0,1,0,0,0,0,0
+Data Scientist,3.5,"Farmer's Business Network, Inc.","San Carlos, CA","San Carlos, CA",Agriculture & Forestry,79,133,106, CA,1,6,1,1,0,0,0,0,1
+Data Scientist,0.0,Sonde Health,"Boston, MA","Boston, MA",Health Care,79,133,106, MA,1,-1,1,0,0,0,1,0,0
+Data Scientist,5.0,Maxiom,"Ashburn, VA","Ashburn, VA",-1,79,133,106, VA,1,-1,1,1,1,0,0,1,0
+Data Scientist,2.7,Change Healthcare,"Lombard, IL","Nashville, TN",Information Technology,79,133,106, IL,0,13,0,1,0,0,1,0,0
+Data Scientist,4.1,DCS Corp,"Hampton, VA","Alexandria, VA",Business Services,79,133,106, VA,0,43,1,1,0,0,0,0,1
+Data Scientist,2.1,Hive (CA),"San Francisco, CA","Los Angeles, CA",Telecommunications,79,133,106, CA,0,1,1,0,1,1,0,0,0
+Machine Learning Engineer/Scientist,4.8,Jane Street,"New York, NY","New York, NY",Finance,79,133,106, NY,1,20,0,0,0,0,0,0,0
+Data Scientist - Intermediate,4.5,Envision LLC,"Saint Louis, MO","Saint Louis, MO",Business Services,69,116,92, MO,1,26,1,1,0,0,0,0,0
+Principal Data Scientist,4.0,Autodesk,"San Francisco, CA","San Rafael, CA",Information Technology,69,116,92, CA,0,38,1,1,1,1,1,0,1
+Data Scientist,3.3,Hackensack Meridian Health,"Edison, NJ","Edison, NJ",Health Care,69,116,92, NJ,1,-1,1,0,0,0,0,1,0
+"Senior Data Scientist – Image Analytics, Novartis AI Innovation Lab",3.9,Novartis,"Cambridge, MA","Basel, Switzerland",Biotech & Pharmaceuticals,69,116,92, MA,0,24,0,0,0,0,0,0,0
+Data Scientist,3.2,Net2Source Inc.,"Alpharetta, GA","Somerset, NJ",Business Services,69,116,92, GA,0,13,1,1,1,1,0,0,0
+Data Scientist,3.2,The Trade Desk,"Boulder, CO","Ventura, CA",Information Technology,69,116,92, CO,0,11,1,0,0,1,1,0,1
+Data Scientist- Industrial Discrete Sector Industry,3.7,IBM,"Atlanta, GA","Armonk, NY",Information Technology,69,116,92, GA,0,109,1,1,0,0,1,0,0
+Data Scientist,4.4,Knowesis Inc.,"Falls Church, VA","Fairfax, VA",Business Services,69,116,92, VA,0,13,1,0,1,0,1,1,0
+Data Scientist,3.1,MoTek Technologies,"Mountain View, CA","San Jose, CA",Information Technology,69,116,92, CA,0,11,1,1,0,0,0,0,0
+Data Scientist,3.3,The Davey Tree Expert Company,"Kent, OH","Kent, OH",Agriculture & Forestry,69,116,92, OH,1,140,1,1,0,0,0,0,0
+Data Scientist,3.5,HPOne,"Trumbull, CT","Trumbull, CT",Insurance,69,116,92, CT,1,14,1,1,0,0,0,1,0
+Data Scientist,0.0,Stride Search,"San Francisco, CA","Westlake Village, CA",-1,69,116,92, CA,0,-1,1,0,0,0,0,0,0
+Machine Learning Engineer,2.6,Software Engineering Institute,"Pittsburgh, PA","Pittsburgh, PA",Education,69,116,92, PA,1,36,1,0,0,0,0,0,0
+Data Scientist,0.0,Blue Cloak LLC,"Sterling, VA",-1,-1,69,116,92, VA,0,-1,1,0,1,1,1,1,0
+Data Scientist,2.7,TBWA\Chiat\Day,"New York, NY","New York, NY",Business Services,69,116,92, NY,1,52,1,1,0,0,0,1,0
+Data Scientist,3.5,ThreeBridge Solutions,"Alpharetta, GA","Minneapolis, MN",Business Services,69,116,92, GA,0,11,1,0,0,0,0,0,0
+Data Scientist,3.2,"Numeric, LLC","Philadelphia, PA","Chadds Ford, PA",Business Services,69,116,92, PA,0,-1,1,0,1,1,1,0,1
+Data Analyst - Unilever Prestige,3.8,Dermalogica,"Carson, CA","Carson, CA",Manufacturing,69,116,92, CA,1,34,1,0,0,0,0,1,0
+Data Scientist,4.2,Centraprise,"Foster City, CA","Edison, NJ",Information Technology,69,116,92, CA,0,-1,1,0,0,0,0,0,0
+Data Scientist,4.8,TechProjects,"New York, NY","North Brunswick, NJ",Information Technology,69,116,92, NY,0,9,1,1,0,0,0,1,0
+Data Scientist,4.2,DW Simpson,"Frederick, MD","Chicago, IL",Business Services,69,116,92, MD,0,31,1,1,0,0,0,1,0
+Data & Machine Learning Scientist,3.3,Tempus Labs,"Chicago, IL","Chicago, IL",Biotech & Pharmaceuticals,31,56,43, IL,1,5,1,0,0,0,1,0,0
+Data Scientist,4.0,Grid Dynamics,"Santa Clara, CA","San Ramon, CA",Information Technology,31,56,43, CA,0,14,1,1,0,0,0,1,1
+"VP, Data Science",3.9,7Park Data,"New York, NY","New York, NY",Business Services,31,56,43, NY,1,8,1,1,0,1,0,0,0
+Senior Business Intelligence Analyst,3.7,Protolabs,"Maple Plain, MN","Maple Plain, MN",Manufacturing,31,56,43, MN,1,21,0,0,0,0,0,0,0
+Data Scientist,3.9,LinQuest,"Colorado Springs, CO","Los Angeles, CA",Aerospace & Defense,31,56,43, CO,0,16,1,1,0,0,0,1,0
+Data Engineer - Kafka,3.5,Western Digital,"San Jose, CA","San Jose, CA",Information Technology,31,56,43, CA,1,50,1,0,1,1,1,0,0
+Data Scientist,4.0,Trexquant Investment,United States,"Stamford, CT",Finance,31,56,43,United States,0,8,1,0,0,0,0,0,0
+Data Scientist,3.0,Ameritas Life Insurance Corp,"Cincinnati, OH","Lincoln, NE",Insurance,31,56,43, OH,0,133,0,0,0,0,0,0,0
+Data Scientist,3.7,Fleetcor,"Atlanta, GA","Atlanta, GA",Finance,31,56,43, GA,1,20,1,1,0,0,0,1,0
+Data Scientist,4.5,Radiant Digital,"Washington, DC","New York, NY",-1,31,56,43, DC,0,-1,1,1,1,1,0,0,0
+Data Scientist,2.8,Child Care Aware of America,"Arlington, VA","Arlington, VA",Non-Profit,31,56,43, VA,1,33,1,1,0,0,1,0,0
+Data Scientist,4.1,IntelliPro Group Inc.,"Santa Clara, CA","Santa Clara, CA",-1,31,56,43, CA,1,-1,1,1,1,0,0,0,0
+In-Line Inspection Data Analyst,2.9,Quest Integrity,"Tulsa, OK","Kent, WA","Oil, Gas, Energy & Utilities",31,56,43, OK,0,24,0,1,0,0,0,0,0
+Data Scientist,4.7,Praxis Engineering,"Chantilly, VA","Annapolis Junction, MD",Information Technology,31,56,43, VA,0,18,0,0,0,0,1,0,1
+Data Scientist,3.4,USI,"Southfield, MI","Saint Paul, MN","Construction, Repair & Maintenance",31,56,43, MI,0,22,1,1,0,0,0,0,0
+Data Scientist,3.9,Apex Systems,"San Francisco, CA","Glen Allen, VA",Business Services,31,56,43, CA,0,25,0,0,0,0,0,0,0
+Data Scientist,2.9,"Pragmatics, Inc.",United States,"Reston, VA",Information Technology,31,56,43,United States,0,35,1,0,1,0,1,0,0
+Decision Scientist,4.5,Johns Hopkins University Applied Physics Laboratory,"Laurel, MD","Laurel, MD",Aerospace & Defense,31,56,43, MD,1,78,0,1,0,1,0,0,0
+Data Scientist,4.9,Cambridge Mobile Telematics,"Cambridge, MA","Cambridge, MA",Information Technology,31,56,43, MA,1,10,1,0,0,1,1,0,0
+Data Scientist - TS/SCI FSP or CI Required,5.0,Phoenix Operations Group,"Annapolis Junction, MD","Woodbine, MD",Information Technology,31,56,43, MD,0,9,1,0,0,1,0,0,1
+"Data Scientist, Applied Machine Learning - Bay Area",3.3,Tempus Labs,"Redwood City, CA","Chicago, IL",Biotech & Pharmaceuticals,95,119,107, CA,0,5,1,0,0,0,1,0,0
+Data Scientist,3.5,The Knot Worldwide,"Washington, DC","Chevy Chase, MD",Information Technology,95,119,107, DC,0,1,1,0,0,1,1,0,0
+Data Scientist,3.5,Crossover Health,"San Clemente, CA","Aliso Viejo, CA",Health Care,95,119,107, CA,0,10,1,1,0,0,0,1,1
+Data Scientist,4.0,Lorven Technologies Inc,"New York, NY","Plainsboro, NJ",Accounting & Legal,95,119,107, NY,0,-1,1,0,0,0,0,0,0
+Data Analyst,3.9,Nolij Consulting,"Falls Church, VA","Vienna, VA",Business Services,95,119,107, VA,0,8,1,1,0,0,0,1,0
+Data Scientist,3.4,Dice.com,"Newton, MA","Denver, CO",Business Services,95,119,107, MA,0,30,1,1,0,0,1,0,0
+Data Scientist,3.5,Gap Inc.,"San Francisco, CA","San Francisco, CA",Retail,95,119,107, CA,1,51,1,0,0,1,0,0,1
+Data Scientist,4.7,"Tygart Technology, Inc","Washington, DC","Fairmont, WV",-1,95,119,107, DC,0,-1,1,1,1,0,0,0,1
+Data Scientist,0.0,Hatch Data Inc,"San Francisco, CA",-1,-1,95,119,107, CA,0,-1,1,0,0,1,1,0,0
+Data Scientist,0.0,Hatch Data Inc,"San Francisco, CA",-1,-1,95,119,107, CA,0,-1,1,0,0,1,1,0,0
+Data Scientist,0.0,Hatch Data Inc,"San Francisco, CA",-1,-1,95,119,107, CA,0,-1,1,0,0,1,1,0,0
+Data Scientist,0.0,Hatch Data Inc,"San Francisco, CA",-1,-1,95,119,107, CA,0,-1,1,0,0,1,1,0,0
+Data Scientist,0.0,Hatch Data Inc,"San Francisco, CA",-1,-1,95,119,107, CA,0,-1,1,0,0,1,1,0,0
+Data Scientist,0.0,Hatch Data Inc,"San Francisco, CA",-1,-1,95,119,107, CA,0,-1,1,0,0,1,1,0,0
+Data Scientist,4.6,Murray Resources,"The Woodlands, TX","Houston, TX",Business Services,95,119,107, TX,0,32,1,1,1,0,0,1,0
+Data Scientist,4.0,New York Technology Partners,"Seattle, WA","Jersey City, NJ",Information Technology,95,119,107, WA,0,21,1,1,1,1,1,0,0
+Data Scientist,4.0,Two95 International Inc.,"Chicago, IL","Cherry Hill, NJ",Business Services,95,119,107, IL,0,-1,1,0,0,0,0,0,0
+Data Scientist,0.0,Sophinea,"Chantilly, VA",-1,-1,95,119,107, VA,0,-1,0,0,0,0,0,0,0
+Data Scientist,4.7,CRS Group,"Chicago, IL","Itasca, IL",Business Services,95,119,107, IL,0,26,0,0,0,0,0,0,0
+Data Scientist,3.5,Blackstone Talent Group,"San Francisco, CA","San Francisco, CA",Business Services,95,119,107, CA,1,22,1,0,0,0,1,0,0
+Data Scientist - TS/SCI Required,5.0,Phoenix Operations Group,"Baltimore, MD","Woodbine, MD",Information Technology,95,119,107, MD,0,9,1,0,0,1,0,0,1
+Senior Principal Data Scientist (Python/R),4.1,Roche,"Pleasanton, CA","Basel, Switzerland",Biotech & Pharmaceuticals,212,331,271, CA,0,124,1,1,1,1,0,0,1
+"Real World Science, Data Scientist",4.0,AstraZeneca,"Wilmington, DE","Cambridge, United Kingdom",Biotech & Pharmaceuticals,212,331,271, DE,0,107,1,0,1,0,0,0,0
+Data Scientist,3.6,Creative Circle,United States,"Los Angeles, CA",Business Services,212,331,271,United States,0,18,1,0,0,0,0,0,0
+Data Scientist(s)/Machine Learning Engineer,5.0,Blue Horizon Tek Solutions,"New York, NY","Coconut Creek, FL",Business Services,212,331,271, NY,0,33,1,1,0,0,0,0,0
+Senior Data Scientist,3.5,Maxar Technologies,"Herndon, VA","Westminster, CO",Aerospace & Defense,212,331,271, VA,0,-1,1,1,0,0,0,0,1
+Data Scientist,4.7,Sharpedge Solutions Inc,"Seattle, WA","Lombard, IL",Media,212,331,271, WA,0,-1,1,1,1,1,1,0,0
+Data Scientist,3.5,Maxar Technologies,"Herndon, VA","Westminster, CO",Aerospace & Defense,212,331,271, VA,0,-1,1,0,1,1,0,1,0
+Data Scientist,3.6,Alaka`ina Foundation Family of Companies,"Fort Sam Houston, TX","Honolulu, HI",-1,212,331,271, TX,0,-1,1,0,0,0,0,0,0
+ENGINEER - COMPUTER SCIENTIST - RESEARCH COMPUTER SCIENTIST - SIGNAL PROCESSING - SAN ANTONIO OR,3.9,Southwest Research Institute,"Oklahoma City, OK","San Antonio, TX",Business Services,212,331,271, OK,0,73,1,1,0,0,0,0,0
+Data Scientist,2.7,Hexagon US Federal,"Lexington Park, MD","Chantilly, VA",Aerospace & Defense,212,331,271, MD,0,10,0,1,0,0,1,0,0
+Data Science Software Engineer,4.8,Klaviyo,"Boston, MA","Boston, MA",Information Technology,212,331,271, MA,1,8,1,0,0,0,0,0,0
+"Scientist / Group Lead, Cancer Biology",0.0,Monte Rosa Therapeutics,"Cambridge, MA",-1,-1,212,331,271, MA,0,-1,0,1,0,0,0,0,0
+Data Scientist,4.0,Comtech Global Inc,"Washington, DC","Columbus, OH",Consumer Services,212,331,271, DC,0,-1,1,0,1,1,1,1,0
+Data Scientist,3.8,"Aveshka, Inc.","Washington, DC","Arlington, VA",Information Technology,212,331,271, DC,0,10,1,1,0,1,0,0,1
+"Manager, Field Application Scientist, Southeast",4.2,10x Genomics,"Raleigh, NC","Pleasanton, CA",Biotech & Pharmaceuticals,212,331,271, NC,0,8,0,1,0,0,0,0,0
+COMPUTER SCIENTIST - ENGINEER - RESEARCH COMPUTER SCIENTIST - SIGNAL PROCESSING,3.9,Southwest Research Institute,"Dayton, OH","San Antonio, TX",Business Services,212,331,271, OH,0,73,1,1,0,0,0,0,0
+Data Scientist,0.0,CompuForce,"New York, NY","New York, NY",-1,212,331,271, NY,1,-1,0,1,1,1,1,0,1
+Data Scientist,4.5,Smith Hanley Associates,"Washington, DC","New York, 061",Business Services,212,331,271, DC,0,40,1,0,0,0,0,0,0
+Scientist - Machine Learning,3.5,Allen Institute,"Seattle, WA","Seattle, WA",Business Services,212,331,271, WA,1,17,0,0,0,0,0,0,0
+Data Scientist,2.7,1-800-Flowers,"New York, NY","Carle Place, NY",Business Services,212,331,271, NY,0,44,1,1,0,0,0,1,0
+Data Scientist,3.5,Aptive,"Washington, DC","Alexandria, VA",Business Services,212,331,271, DC,0,8,1,1,0,0,0,1,0
+Data Scientist - Image and Video Analytics,4.9,The Mom Project,"Longmont, CO","Chicago, IL",Business Services,66,112,89, CO,0,4,1,0,1,1,1,0,0
+Data Scientist,3.6,Powertek,"Washington, DC","Rockville, MD",Information Technology,66,112,89, DC,0,19,0,0,0,0,0,0,0
+Data Scientist,5.0,JCD Staffing,"Washington, DC","Germantown, MD",-1,66,112,89, DC,0,-1,1,1,0,0,0,1,0
+Data Scientist,3.1,Bayside Solutions,"Sunnyvale, CA","Pleasanton, CA",Business Services,66,112,89, CA,0,19,1,1,0,0,0,1,0
+Senior Data Engineer,3.9,Thumbtack,"San Francisco, CA","San Francisco, CA",Information Technology,66,112,89, CA,1,11,1,1,0,0,1,0,0
+Data Scientist,3.4,"MILVETS Systems Technology, Inc.","Patuxent, Anne Arundel, MD","Orlando, FL",Information Technology,66,112,89, MD,0,34,0,1,0,0,0,0,0
+Machine Learning Scientist / Engineer,4.1,Apple,"Santa Clara, CA","Cupertino, CA",Information Technology,66,112,89, CA,0,44,0,0,0,0,0,0,0
+Data Scientist,4.1,Kforce,"Fairfax, VA","Tampa, FL",Business Services,66,112,89, VA,0,54,0,0,0,0,0,0,0
+Sr. Data Scientist,3.5,Evolve Vacation Rental,"Denver, CO","Denver, CO",Travel & Tourism,66,112,89, CO,1,9,1,0,0,0,0,0,0
+"Intelligence Data Analyst, Senior",4.3,The Buffalo Group,"Fort Belvoir, VA","Reston, VA",Information Technology,66,112,89, VA,0,10,1,0,0,0,0,0,0
+Data Science Analyst,4.4,OppLoans,"Chicago, IL","Chicago, IL",Finance,66,112,89, IL,1,8,1,0,0,0,0,0,0
+Data Scientist,3.8,AgreeYa Solutions,"Thousand Oaks, CA","Folsom, CA",Information Technology,66,112,89, CA,0,21,1,1,0,0,0,0,0
+Data Scientist,3.7,Carolina Power & Light Co,"McLean, VA","Raleigh, NC","Oil, Gas, Energy & Utilities",66,112,89, VA,0,112,1,1,0,0,0,0,1
+COMPUTER SCIENTIST - ENGINEER - RESEARCH COMPUTER SCIENTIST - TRANSPORTATION TECHNOLOGY,3.9,Southwest Research Institute,"San Antonio, TX","San Antonio, TX",Business Services,66,112,89, TX,1,73,1,1,0,0,0,0,0
+Data Scientist,3.9,Brillient,"Silver Spring, MD","Reston, VA",Information Technology,66,112,89, MD,0,14,1,1,0,0,0,0,1
+Data Modeler (Analytical Systems),3.7,MassMutual,"Boston, MA","Springfield, MA",Insurance,66,112,89, MA,0,169,0,1,1,1,0,0,1
+Data Scientist,2.9,Xator Corporation,"Washington, DC","Reston, VA",Information Technology,66,112,89, DC,0,-1,0,0,0,0,0,0,0
+Data Scientist,4.6,HAN IT Staffing Inc.,"New York, NY","Totowa, NJ",Information Technology,66,112,89, NY,0,8,1,1,0,0,0,0,1
+Data Scientist,3.4,Infinitive Inc,"McLean, VA","Cedar Rapids, IA",Information Technology,66,112,89, VA,0,23,1,1,1,1,1,0,1
+"Data Engineer (Analytics, SQL, Python, AWS)",4.0,Travelers,"Hartford, CT","Hartford, CT",Insurance,66,112,89, CT,1,167,1,0,0,1,1,0,1
+Data Scientist 3 (718),3.3,Amyris,"Emeryville, CA","Emeryville, CA",Biotech & Pharmaceuticals,128,201,164, CA,1,17,1,0,0,0,1,0,0
+Data Scientist,4.3,Lightspeed Systems,"Austin, TX","Austin, TX",Information Technology,128,201,164, TX,1,21,1,0,0,1,1,0,0
+Senior Data Scientist,3.9,Thumbtack,"San Francisco, CA","San Francisco, CA",Information Technology,128,201,164, CA,1,11,1,1,1,1,0,0,0
+Senior Data Analyst - Finance & Platform Analytics,3.6,Twitch,"San Francisco, CA","San Francisco, CA",Information Technology,128,201,164, CA,1,9,1,0,0,0,0,1,0
+Software Engineer - Machine Learning & Data Science (Applied Intelligence Services Team),4.7,New Relic,"Portland, OR","San Francisco, CA",Information Technology,128,201,164, OR,0,12,1,0,0,0,0,0,0
+IT Partner Digital Health Technology and Data Science,3.6,Biogen,"Cambridge, MA","Cambridge, MA",Biotech & Pharmaceuticals,128,201,164, MA,1,42,0,1,0,0,0,0,0
+Data Scientist,0.0,HireAi,"San Francisco, CA",-1,-1,128,201,164, CA,0,-1,1,1,0,1,0,1,0
+"Senior Machine Learning Scientist - Bay Area, CA",3.3,Tempus Labs,"Redwood City, CA","Chicago, IL",Biotech & Pharmaceuticals,128,201,164, CA,0,5,1,0,0,0,1,0,0
+Data Scientist,3.3,ICW Group,"San Diego, CA","San Diego, CA",Insurance,128,201,164, CA,1,48,1,0,0,0,0,0,0
+Clinical Data Analyst,3.8,NYSTEC,"New York, NY","Rome, NY",Business Services,128,201,164, NY,0,24,1,0,0,0,0,0,0
+Data Scientist,4.5,E3 Federal Solutions,"Chantilly, VA","McLean, VA",Business Services,128,201,164, VA,0,16,0,0,1,0,0,0,1
+Data Engineer,4.5,Kingfisher Systems,"Falls Church, VA","Falls Church, VA",Government,128,201,164, VA,1,15,1,0,0,0,0,0,0
+Data Scientist Technical Specialist,3.4,Peraton,"Chantilly, VA","Herndon, VA",Aerospace & Defense,128,201,164, VA,0,3,1,0,1,1,0,0,1
+Senior Data Scientist,3.1,Group O,"Chicago, IL","Milan, IL",Business Services,128,201,164, IL,0,46,1,0,1,0,0,0,0
+Data Science Manager,4.0,Autodesk,"San Francisco, CA","San Rafael, CA",Information Technology,128,201,164, CA,0,38,1,1,1,1,0,0,1
+Computer Vision / Deep Learning Scientist,3.3,Tempus Labs,"Chicago, IL","Chicago, IL",Biotech & Pharmaceuticals,128,201,164, IL,1,5,0,0,0,0,1,0,0
+Big Data Engineer,4.1,CaptiveAire,"Raleigh, NC","Raleigh, NC",Manufacturing,128,201,164, NC,1,44,1,0,0,1,0,0,0
+Data Architect,4.2,LSQ,"Orlando, FL","Orlando, FL",Finance,128,201,164, FL,1,24,1,0,1,1,1,0,1
+Machine Learning Engineer,3.9,Temboo,"New York, NY","New York, NY",Information Technology,128,201,164, NY,1,-1,0,0,1,0,0,0,0
+Data Scientist,0.0,Kibo,"Philadelphia, PA","Marbella, Spain",-1,128,201,164, PA,0,-1,1,0,0,0,0,0,0
+Aviation AI/ML Data Scientist,3.3,MITRE,"McLean, VA","Bedford, MA",Government,128,201,164, VA,0,62,1,1,1,1,0,1,1
+Data Scientist,3.9,Mars,United States,"Mc Lean, VA",Manufacturing,138,158,148,United States,0,109,1,0,0,1,1,0,0
+Data Scientist / Applied Mathematician,4.5,"Fullpower Technologies, Inc.","Santa Cruz, CA","Santa Cruz, CA",Information Technology,138,158,148, CA,1,17,1,0,0,0,1,0,1
+"Machine Learning Engineer, Sr.",4.2,AeroVironment,"Simi Valley, CA","Simi Valley, CA",Aerospace & Defense,138,158,148, CA,1,49,1,1,0,0,1,0,1
+Data Scientist (TS/SCI w/ Poly),3.5,Maxar Technologies,"Herndon, VA","Westminster, CO",Aerospace & Defense,138,158,148, VA,0,-1,1,0,0,0,0,0,0
+Weapons and Sensors Engineer/Scientist,4.0,Dynetics,"Huntsville, AL","Huntsville, AL",Aerospace & Defense,138,158,148, AL,1,46,1,0,0,0,0,0,0
+Applied Computer Scientist,4.5,Systems & Technology Research,"Woburn, MA","Woburn, MA",Aerospace & Defense,138,158,148, MA,1,10,0,0,0,0,0,0,0
+Senior Data Analyst,4.5,Novetta,"Herndon, VA","Mc Lean, VA",Information Technology,138,158,148, VA,0,8,1,1,0,0,0,0,0
+Information Systems Engineering Specialist (Engineering Scientist),3.8,Applied Research Laboratories,"Austin, TX","Austin, TX",Education,138,158,148, TX,1,-1,1,0,0,0,1,0,0
+Cloud Data Engineer (Azure),3.9,Navy Federal Credit Union,"Merrifield, VA","Vienna, VA",Finance,138,158,148, VA,0,87,0,0,0,0,0,1,0
+Scientist/Research Associate-Metabolic Engineering,2.0,Conagen,"New Bedford, MA","Bedford, MA",Biotech & Pharmaceuticals,138,158,148, MA,0,-1,0,0,0,0,0,0,0
+"Vice President, Biometrics and Clinical Data Management",4.8,Alector,"South San Francisco, CA","South San Francisco, CA",Biotech & Pharmaceuticals,138,158,148, CA,1,7,0,1,0,0,1,0,0
+Enterprise Data Analyst (Enterprise Portfolio Management Office),3.9,Navy Federal Credit Union,"Merrifield, VA","Vienna, VA",Finance,138,158,148, VA,0,87,0,0,0,1,0,1,0
+Senior Scientist - Toxicologist - Product Integrity (Stewardship),3.3,Reynolds American,"Winston-Salem, NC","Winston-Salem, NC",Manufacturing,138,158,148, NC,1,145,0,1,0,0,0,0,0
+Lead Data Scientist – Network Analysis and Control,3.3,MITRE,"Bedford, MA","Bedford, MA",Government,138,158,148, MA,1,62,1,1,1,1,1,0,1
+Senior Machine Learning Engineer,5.0,LifeOmic,"Raleigh, NC","Indianapolis, IN",Information Technology,138,158,148, NC,0,4,0,0,0,1,1,0,0
+"Sr. Research Associate/ Scientist, NGS prep & Molecular Genomics",4.4,"Homology Medicines, Inc.","New Bedford, MA","Bedford, MA",-1,138,158,148, MA,0,-1,0,0,0,0,0,0,0
+Data Engineer,3.4,Spectrum Communications and Consulting,"Chicago, IL","Chicago, IL",Business Services,138,158,148, IL,1,28,1,0,0,0,0,0,0
+Developer III - Data Science,3.3,Inland Empire Health Plan,"Rancho Cucamonga, CA","Rancho Cucamonga, CA",Health Care,138,158,148, CA,1,24,0,1,0,0,0,1,0
+Senior Data Engineer,2.9,Affinity Solutions,"New York, NY","New York, NY",Business Services,138,158,148, NY,1,22,1,0,1,1,0,1,0
+Hydrogen/Tritium Materials Scientist (Experienced),3.8,Sandia National Laboratories,"Livermore, CA","Albuquerque, NM",Government,138,158,148, CA,0,71,0,0,0,0,0,0,0
+Data Engineer,3.5,Maxar Technologies,"McLean, VA","Westminster, CO",Aerospace & Defense,138,158,148, VA,0,-1,1,0,0,0,1,0,0
+Patient Safety- Associate Data Scientist,4.0,AstraZeneca,"Gaithersburg, MD","Cambridge, United Kingdom",Biotech & Pharmaceuticals,80,132,106, MD,0,107,1,1,0,0,0,0,0
+Senior Data Scientist,4.0,Autodesk,"San Francisco, CA","San Rafael, CA",Information Technology,80,132,106, CA,0,38,1,0,1,1,0,0,1
+Data Scientist,3.4,USI,"Southfield, MI","Saint Paul, MN","Construction, Repair & Maintenance",80,132,106, MI,0,22,1,1,0,0,0,0,0
+Data Scientist,3.9,GSK,"Collegeville, PA","Brentford, United Kingdom",Biotech & Pharmaceuticals,80,132,106, PA,0,190,1,0,1,0,1,1,0
+Data Scientist,3.8,CIA,"Washington, DC","Langley, VA",Government,80,132,106, DC,0,73,0,0,0,0,0,0,0
+Data Scientist,4.5,Maven Wave Partners,"Chicago, IL","Chicago, IL",Business Services,80,132,106, IL,1,12,1,1,1,0,1,1,0
+Data Scientist,4.3,Ovative Group,"Minneapolis, MN","Minneapolis, MN",Business Services,80,132,106, MN,1,11,1,0,0,0,0,0,0
+Data Scientist,3.6,Kognetics,"Gahanna, OH","New York, NY",-1,80,132,106, OH,0,-1,1,1,0,0,0,0,0
+Data Scientist,2.9,Envision Healthcare,"Nashville, TN","Nashville, TN",Health Care,80,132,106, TN,1,15,1,1,1,1,1,1,1
+Data Scientist,2.9,"Pragmatics, Inc.",United States,"Reston, VA",Information Technology,80,132,106,United States,0,35,1,0,1,0,1,0,0
+Data Scientist,3.2,ConsumerTrack,California,"Los Angeles, CA",Information Technology,80,132,106,California,0,16,1,1,0,0,0,1,0
+Decision Scientist,4.5,Johns Hopkins University Applied Physics Laboratory,"Laurel, MD","Laurel, MD",Aerospace & Defense,80,132,106, MD,1,78,0,1,0,1,0,0,0
+Data Scientist - TS/SCI FSP or CI Required,5.0,Phoenix Operations Group,"Annapolis Junction, MD","Woodbine, MD",Information Technology,80,132,106, MD,0,9,1,0,0,1,0,0,1
+Data Scientist,3.5,Crossover Health,"San Clemente, CA","Aliso Viejo, CA",Health Care,80,132,106, CA,0,10,1,1,0,0,0,1,1
+Data Scientist,4.0,Lorven Technologies Inc,"New York, NY","Plainsboro, NJ",Accounting & Legal,80,132,106, NY,0,-1,1,0,0,0,0,0,0
+Data Scientist,4.4,Meridian Knowledge Solutions,"Washington, DC","Reston, VA",Information Technology,80,132,106, DC,0,23,0,1,0,0,0,0,0
+Data Scientist,4.2,UST Global,"Atlanta, GA","Aliso Viejo, CA",Information Technology,80,132,106, GA,0,21,1,1,1,1,1,0,1
+Data Scientist,3.2,IMG Systems,"Plano, TX","Plano, TX",Business Services,80,132,106, TX,1,-1,1,0,0,0,0,0,0
+Data Scientist,3.4,Trident Systems Inc,"Fairfax, VA","Fairfax, VA",Aerospace & Defense,80,132,106, VA,1,35,0,0,0,0,0,0,0
+Data Scientist,4.7,"Tygart Technology, Inc","Washington, DC","Fairmont, WV",-1,80,132,106, DC,0,-1,1,1,1,0,0,0,1
+(Sr.) Data Scientist -,3.6,Merrick Bank,Utah,"South Jordan, UT",Finance,87,141,114,Utah,0,23,1,1,0,0,1,0,0
+Senior Data Scientist,4.2,ManTech,"Alexandria, VA","Herndon, VA",Business Services,87,141,114, VA,0,52,1,0,1,1,0,1,1
+Data Scientist,0.0,"GrainBridge, LLC","Omaha, NE",-1,-1,87,141,114, NE,0,-1,1,1,0,0,1,0,1
+Data Scientist,3.2,First Health Group,"Wellesley, MA","Bethesda, MD",Insurance,87,141,114, MA,0,167,0,0,0,0,0,0,0
+Data Scientist,0.0,Sprezzatura Management Consulting,"Washington, VA","McLean, VA",-1,87,141,114, VA,0,-1,0,1,0,0,0,0,0
+Data Scientist,2.8,"Progress Rail, A Caterpillar Company","Fort Worth, TX","Albertville, AL",Transportation & Logistics,87,141,114, TX,0,37,1,1,0,0,1,0,0
+Data Scientist,4.2,UST Global,"Atlanta, GA","Aliso Viejo, CA",Information Technology,87,141,114, GA,0,21,1,1,1,1,1,0,1
+Data Scientist,4.5,Axiologic Solutions,"Alexandria, VA","Fairfax, VA",Aerospace & Defense,87,141,114, VA,0,11,0,0,0,0,1,0,0
+Data Scientist,3.0,Indigo Slate,"Bellevue, WA","Bellevue, WA",Business Services,87,141,114, WA,1,14,1,0,0,1,0,0,0
+Data Scientist,3.3,Cubic,United States,"San Diego, CA",Aerospace & Defense,87,141,114,United States,0,69,1,1,1,0,0,0,0
+Data Scientist,4.0,Advanced Bio-Logic Solutions Corp,"Thousand Oaks, CA","Westlake Village, CA",-1,87,141,114, CA,0,-1,1,0,0,0,0,0,0
+Data Engineer,3.5,Alignment Healthcare,"Orange, CA","Orange, CA",Health Care,87,141,114, CA,1,7,0,1,1,1,1,1,0
+Data Scientist,3.5,WGSN,"Baltimore, MD","New York, NY",Business Services,87,141,114, MD,0,22,1,1,1,1,0,1,0
+Data Scientist,3.6,"ISYS Technologies, Inc.","Herndon, VA","Littleton, CO",Information Technology,87,141,114, VA,0,30,1,0,1,1,0,1,0
+Data Scientist,3.0,TransVoyant,"Alexandria, VA","Alexandria, VA",Information Technology,87,141,114, VA,1,8,0,0,1,1,0,0,0
+Data Scientist/Data Analytics Practitioner,4.0,Noblis,"Bridgeport, WV","Reston, VA",Business Services,87,141,114, WV,0,24,1,0,0,0,0,0,0
+Data Scientist,4.6,Murray Resources,"The Woodlands, TX","Houston, TX",Business Services,87,141,114, TX,0,32,1,1,1,0,0,1,0
+Data Scientist,4.3,Geotab,"Oakville, CA","Oakville, Canada",Information Technology,87,141,114, CA,0,20,1,1,0,1,0,0,1
+Data Scientist,4.7,CRS Group,"Chicago, IL","Itasca, IL",Business Services,87,141,114, IL,0,26,0,0,0,0,0,0,0
+Data Scientist,3.7,EGlobalTech,"Arlington, VA","Vienna, VA",Information Technology,87,141,114, VA,0,16,1,1,0,0,1,0,0
+"Data Scientist, Kinship - NYC/Portland",3.9,Mars,"New York, NY","Mc Lean, VA",Manufacturing,92,155,123, NY,0,109,1,0,0,1,0,0,0
+Data Scientist,4.9,Avlino,New Jersey,"Holmdel, NJ",Information Technology,92,155,123,New Jersey,0,7,1,0,1,1,0,0,1
+Data Scientist,3.0,"Central Business Solutions, Inc","Seattle, WA","Fremont, CA",Business Services,92,155,123, WA,0,-1,1,1,1,1,1,0,0
+Data Scientist,2.5,KeHE Distributors,"Naperville, IL","Naperville, IL",Business Services,92,155,123, IL,1,66,1,1,1,1,1,1,1
+Data Scientist,3.5,Blackstone Talent Group,"San Francisco, CA","San Francisco, CA",Business Services,92,155,123, CA,1,22,1,0,0,0,1,0,0
+Data Scientist - TS/SCI Required,5.0,Phoenix Operations Group,"Baltimore, MD","Woodbine, MD",Information Technology,92,155,123, MD,0,9,1,0,0,1,0,0,1
+Data Scientist,0.0,Sophinea,"Chantilly, VA",-1,-1,92,155,123, VA,0,-1,0,0,0,0,0,0,0
+Senior Data Scientist,3.5,Maxar Technologies,"Herndon, VA","Westminster, CO",Aerospace & Defense,92,155,123, VA,0,-1,1,1,0,0,0,0,1
+Data Scientist,3.0,Moxie Software,"Bellevue, WA","San Bruno, CA",Information Technology,92,155,123, WA,0,21,1,0,1,1,0,0,0
+Data Scientist(s)/Machine Learning Engineer,5.0,Blue Horizon Tek Solutions,"New York, NY","Coconut Creek, FL",Business Services,92,155,123, NY,0,33,1,1,0,0,0,0,0
+Data Scientist,4.7,Unicom Technologies INC,"Chicago, IL","Naperville, IL",Information Technology,92,155,123, IL,0,-1,1,1,1,1,1,0,0
+Data Engineer,3.3,Americo Life,"Kansas City, MO","Kansas City, MO",Insurance,92,155,123, MO,1,28,1,1,1,1,1,0,0
+Data Scientist,3.3,Tokio Marine HCC,"Houston, TX","Houston, TX",Insurance,92,155,123, TX,1,46,1,0,0,0,0,0,0
+Data Scientist,3.5,CACI International,"Chantilly, VA","Arlington, VA",Aerospace & Defense,92,155,123, VA,0,58,0,1,0,0,0,0,0
+"AI/ML - Machine Learning Scientist, Siri Understanding",4.1,Apple,"Santa Clara, CA","Cupertino, CA",Information Technology,92,155,123, CA,0,44,1,0,0,0,0,0,1
+Data Scientist,3.5,Maxar Technologies,"Herndon, VA","Westminster, CO",Aerospace & Defense,92,155,123, VA,0,-1,1,0,1,1,0,1,0
+ENGINEER - COMPUTER SCIENTIST - RESEARCH COMPUTER SCIENTIST - SIGNAL PROCESSING - SAN ANTONIO OR,3.9,Southwest Research Institute,"Oklahoma City, OK","San Antonio, TX",Business Services,92,155,123, OK,0,73,1,1,0,0,0,0,0
+Data Scientist,4.7,Compass Consulting Group,"Thousand Oaks, CA","Danville, CA",Business Services,92,155,123, CA,0,12,1,0,0,0,0,0,0
+Data Science Software Engineer,4.8,Klaviyo,"Boston, MA","Boston, MA",Information Technology,92,155,123, MA,1,8,1,0,0,0,0,0,0
+"Scientist / Group Lead, Cancer Biology",0.0,Monte Rosa Therapeutics,"Cambridge, MA",-1,-1,92,155,123, MA,0,-1,0,1,0,0,0,0,0
+AI Ops Data Scientist,4.0,AstraZeneca,"Gaithersburg, MD","Cambridge, United Kingdom",Biotech & Pharmaceuticals,92,155,123, MD,0,107,1,0,1,1,1,0,0
+Senior Data Scientist,3.8,GutCheck,"Denver, CO","Denver, CO",Business Services,105,167,136, CO,1,11,0,0,0,0,0,0,0
+Sr. ML/Data Scientist - AI/NLP/Chatbot,3.8,Juniper Networks,"Cupertino, CA","Sunnyvale, CA",Telecommunications,105,167,136, CA,0,24,1,1,0,1,1,0,0
+Data Scientist,2.7,Hexagon US Federal,"Lexington Park, MD","Chantilly, VA",Aerospace & Defense,105,167,136, MD,0,10,0,1,0,0,1,0,0
+Data Scientist,4.0,Comtech Global Inc,"Washington, DC","Columbus, OH",Consumer Services,105,167,136, DC,0,-1,1,0,1,1,1,1,0
+Data Scientist,0.0,Berico Technologies,"Fort Belvoir, VA",-1,-1,105,167,136, VA,0,-1,0,1,0,0,1,0,0
+Data Scientist,0.0,Kehe Food Distributors,"Naperville, IL",-1,-1,105,167,136, IL,0,-1,1,1,1,1,1,1,1
+Data Scientist,3.8,"Aveshka, Inc.","Washington, DC","Arlington, VA",Information Technology,105,167,136, DC,0,10,1,1,0,1,0,0,1
+Data Scientist,3.2,Perspecta,"Adelphi, MD","Chantilly, VA",Aerospace & Defense,105,167,136, MD,0,2,1,0,1,0,0,0,1
+Data Scientist,0.0,Pactera Edge,"Redmond, WA",-1,-1,105,167,136, WA,0,-1,1,0,0,0,0,0,0
+Data Scientist,3.6,Qurate Retail Group,"West Chester, PA","West Chester, PA",Retail,105,167,136, PA,1,-1,1,1,0,0,0,1,0
+Data Scientist,4.4,"SolutionIT, Inc.","Edison, NJ","Wilmington, MA",-1,105,167,136, NJ,0,-1,0,0,0,0,0,0,0
+Data Scientist,4.1,A-Line Staffing Solutions,"Durham, NC","Utica, MI",Business Services,105,167,136, NC,0,16,1,0,1,1,0,0,1
+Data Scientist,0.0,Clear Ridge Defense,"Quantico, VA","Baltimore, MD",-1,105,167,136, VA,0,-1,1,0,1,0,0,0,0
+Data Scientist,3.8,"Criterion Systems, Inc.","Vienna, VA","Vienna, VA",Information Technology,105,167,136, VA,1,15,1,1,0,0,0,0,0
+Data Scientist,4.0,Foundation Medicine,"Boston, MA","Cambridge, MA",Biotech & Pharmaceuticals,105,167,136, MA,0,10,1,0,0,0,0,0,0
+Data Scientist,3.6,TRANZACT,"Fort Lee, NJ","Fort Lee, NJ",Business Services,105,167,136, NJ,1,31,1,1,1,0,0,1,1
+Data Scientist,0.0,JKGT,"San Francisco, CA",-1,-1,105,167,136, CA,0,-1,0,0,0,0,0,0,0
+Data Scientist,0.0,AccessHope,"Irwindale, CA",-1,-1,105,167,136, CA,0,-1,1,1,1,0,0,1,0
+Data Scientist,5.0,ChaTeck Incorporated,"San Francisco, CA","Santa Clara, CA",Business Services,105,167,136, CA,0,-1,1,0,1,1,0,0,1
+Data Scientist,2.7,1-800-Flowers,"New York, NY","Carle Place, NY",Business Services,105,167,136, NY,0,44,1,1,0,0,0,1,0
