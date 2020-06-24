@@ -40,6 +40,7 @@ AWS<br>
 Spark<br>
 Column for simplified job title and Seniority<br>
 Column for description length<br>
+Column for avarage salary<br>
 
 ## EDA
 <a href="https://imgur.com/Oaqh0Yq"><img src="https://i.imgur.com/Oaqh0Yq.png" title="source: imgur.com" /></a>
